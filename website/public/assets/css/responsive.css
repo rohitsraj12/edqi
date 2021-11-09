@@ -1,0 +1,22 @@
+@media(min-width: 960px){
+
+}
+
+@media(min-width: 769px){
+    .body__header {
+        padding: 10px 0;
+    }
+    .body__header header {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+}
+
+@media(min-width: 575px){
+
+}
+/* @media(min-width: 960px){
+
+} */
