@@ -3,9 +3,14 @@
 }
 
 @media(min-width: 769px){
+    .mobile__banner {
+        display: none;
+    }
+
     .body__header {
         padding: 10px 0;
     }
+
     .body__header header {
         display: flex;
         flex-direction: row;
@@ -14,9 +19,14 @@
     }
 }
 
-@media(min-width: 575px){
+@media(max-width: 575px){
 
+    .desktop__banner {
+        display: none;
+    }
+    
 }
+
 /* @media(min-width: 960px){
 
 } */
