@@ -74,7 +74,11 @@ ul {
     Base styling
 
 ==============================================*/
-
+.primary-header {
+    font-family: var(--font-header);
+    font-size: 3rem;
+    font-weight: 600;
+}
 
 /* ===========================================
 
