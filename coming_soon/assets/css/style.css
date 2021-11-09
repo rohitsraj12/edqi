@@ -14,6 +14,12 @@
     background-color: #021027;
   }
 
+  .btn__primary {
+    color: #fff;
+    background-color: #68c6dd;
+    border-color: #68c6dd;
+  }
+
   .body__wrap {
       position: absolute;
       top: 0;
