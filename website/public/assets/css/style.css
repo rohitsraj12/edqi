@@ -1,0 +1,119 @@
+
+
+/* ========================================
++
++   Developer       : Rohit (rohitwebco@gmail.com)
++   Github          : https://github.com/rohitsraj12/
++   
++   Date            : November 2021
++   Project name    : EDQI
++
+===========================================*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+/* 
+    font-family: 'Open Sans', sans-serif; // normal text
+    font-family: 'Open Sans Condensed', sans-serif; //header text
+*/
+
+:root {
+  --color-white: #ffffff;
+  --color-theme: #106177;
+  --color-dark: #111111;
+
+  /* Fonts */
+  --font-primary: 'Open Sans', sans-serif;
+  --font-header: 'Open Sans Condensed', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-primary);
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 8px;
+  background: rgb(219, 219, 219);
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px rgb(134, 134, 134);
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background-color: #696969;
+  box-shadow: inset 0 0 5px grey;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #969696;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* ===========================================
+
+    Base styling
+
+==============================================*/
+
+
+/* ===========================================
+
+    Predefine classes
+
+==============================================*/
+
+
+/* ===========================================
+
+    body header
+
+==============================================*/
+
+
+/* ===========================================
+
+    body footer
+
+==============================================*/
+
+
+/* ===========================================
+
+    body banner
+
+==============================================*/
+.full__banner img{
+    height: 100vh;
+}
+
+.desktop__banner img, .mobile__banner img {
+    width: 100%;
+}
+
+/* ===========================================
+
+    body container
+
+==============================================*/
+
+
