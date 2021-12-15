@@ -28,7 +28,7 @@
 
 html {
   scroll-behavior: smooth;
-  font-family: var(--font-primary);
+  font-family: var(--font-primary); 
 }
 
 /* width */
@@ -39,18 +39,18 @@ html {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 5px rgb(134, 134, 134);
-  border-radius: 8px;
-  -webkit-border-radius: 8px;
-  -moz-border-radius: 8px;
-  -ms-border-radius: 8px;
-  -o-border-radius: 8px;
+  box-shadow: inset 0 0 5px rgb(252, 252, 252);
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
   border-radius: 8px;
-  background-color: #696969;
+  background-color: #dcdcdc;
   box-shadow: inset 0 0 5px grey;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
@@ -61,6 +61,10 @@ html {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #969696;
+}
+
+a {
+  text-decoration: none;
 }
 
 ul {
@@ -74,6 +78,10 @@ ul {
     Base styling
 
 ==============================================*/
+.body__wrap {
+  position: relative;
+}
+
 .primary-header {
     font-family: var(--font-header);
     font-size: 3rem;
@@ -85,7 +93,16 @@ ul {
     Predefine classes
 
 ==============================================*/
+.wrap__container {
+  margin: 0 auto;
+}
 
+.header__primary {
+  font-family: var(--font-header);
+  font-size: 2rem;
+  font-weight: 500;
+
+}
 
 /* ===========================================
 
