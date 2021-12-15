@@ -40,7 +40,7 @@
     <div class="body__wrap">
         <div class="body__header">
             <div class="hamburger">
-                
+                <i class="fa fa-bars" aria-hidden="true"></i>
             </div>
             <header class="container">
                 <div class="header__brand">
