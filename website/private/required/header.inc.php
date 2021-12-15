@@ -45,8 +45,13 @@
                 </div>
                 <!-- end header brand -->
                 <nav class="header__nav">
-                    <ul>
+                    <ul class="main__nav">
                         <li class="nav__list"><a href="" class="nav__link">Home</a></li>
+                        <li class="nav__list"><a href="" class="nav__link">Courses</a></li>
+                        <li class="nav__list"><a href="" class="nav__link">Services</a></li>
+                        <li class="nav__list"><a href="" class="nav__link">About Us</a></li>
+                        <!-- <li class="nav__list"><a href="" class="nav__link"></a></li> -->
+                        <li class="nav__list"><a href="" class="nav__link">Contact Us</a></li>
                     </ul>
                 </nav>
                 <!-- end header nav -->
