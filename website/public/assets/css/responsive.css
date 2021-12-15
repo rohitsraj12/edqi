@@ -2,6 +2,10 @@
 }
 
 @media(min-width: 769px){
+    .hamburger {
+        display: none;
+    }
+
     .wrap__container {
         width: 80%;
     }
@@ -60,6 +64,21 @@
 }
 
 @media(max-width: 575px){
+
+    .hamburger {
+        position: absolute;
+        top: 0;
+        right: 2%;
+        z-index: 99;
+    }
+    
+    .hamburger i{
+        color: #fff;
+    }
+
+    .body__header {
+        background-color: rgb(0, 20, 35);
+    }
 
     .desktop__banner {
         display: none;
