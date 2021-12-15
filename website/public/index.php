@@ -14,7 +14,7 @@
             <div class="wrap__banner">
                 <div class="banner__image">
                     <div class="desktop__banner full__banner">
-                        <img src="" alt="">
+                        <img src="assets/img/banner/slider-02.jpg" alt="edqi bangalore">
                     </div>
                     <!-- end desktop banner -->
                     <div class="mobile__banner full__banner">
@@ -27,9 +27,21 @@
 
         <div class="body__container">
             <main>
-                <h4 class="primary-header">
-                    about
-                </h4>
+                <section class="section__services">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <article>
+                                    <figure>
+                                        <img src="" alt="">
+                                    </figure>
+                                </article>
+                            </div>
+                            <div class="col-sm-4"></div>
+                            <div class="col-sm-4"></div>
+                        </div>
+                    </div>
+                </section>
             </main>
         </div>
         <!-- end body container -->
