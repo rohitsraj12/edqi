@@ -16,6 +16,12 @@
     font-family: 'Open Sans Condensed', sans-serif; //header text
 */
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 :root {
   --color-white: #ffffff;
   --color-theme: #106177;
@@ -84,8 +90,16 @@ ul {
 
 .primary-header {
     font-family: var(--font-header);
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 600;
+    color: #272727;
+}
+
+.section__sub-header {
+  font-family: var(--font-primary);
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: #4e4e4e;
 }
 
 /* ===========================================
@@ -116,7 +130,9 @@ ul {
     body footer
 
 ==============================================*/
-
+.body__footer {
+  background-color:var(--color-theme)
+}
 
 /* ===========================================
 
@@ -137,4 +153,75 @@ ul {
 
 ==============================================*/
 
+/* home features
+=============================================== */
+.section__features .icon__left{
+  width: 250px;
+}
 
+.content__right h2 {
+  font-family: var(--font-primary);
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+.section__features .section__block {
+  padding-bottom: 20px;
+}
+
+.section__features p {
+  font-family: var(--font-primary);
+  font-size: 0.9rem;
+  color: #444444;
+}
+
+/* home focuse section
+======================================= */
+
+.section__focus-left, .section__focus-right {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.section__focused header {
+  padding-bottom: 10px;
+}
+
+.section__focused header h3 {
+  font-family: var(--font-primary);
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+/* home highlights section
+===================================== */
+.section__hightlights {
+  background-image: url('../img/banner/home_banner.jpg');
+  background-position: bottom center;
+}
+
+.wrap__hightlights {
+  padding: 40px 0;
+  background-color: #00000050;
+}
+
+.highlight__name {
+  color: #fff;
+  font-family: var(--font-primary);
+  font-size: 1.2rem;
+}
+
+.highlight__number {
+  font-family: var(--font-header);
+  font-size: 3rem;
+  font-weight: 700;
+  color: #fff;
+}
+
+/* home testimonials
+====================================== */
+.section__testimonials .section__body {
+  margin: 0 auto;
+}
