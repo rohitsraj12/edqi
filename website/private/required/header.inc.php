@@ -31,31 +31,47 @@
     <link rel="shortcut icon" type="image/png" href="img/fevicon.png" />
 
     <!-- stylesheet -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.3/animate.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/responsive.css">
 </head>
 <body>
 
     <div class="body__wrap">
-        <div class="body__header">
+        <div class="body__header" data-aos="fade-down"
+                        data-aos-offset="100"
+                        data-aos-delay="50"
+                        data-aos-duration="2000"
+                        data-aos-easing="ease-in-out">
             <div class="hamburger">
-                <i class="fa fa-bars" aria-hidden="true"></i>
+                <svg viewBox="0 0 100 80" width="40" height="40">
+                    <rect width="80" height="5"></rect>
+                    <rect y="20" width="80" height="5"></rect>
+                    <rect y="40" width="80" height="5"></rect>
+                </svg>
             </div>
-            <header class="container">
+            <!-- end hamburger -->
+            <header class="wrap__container">
                 <div class="header__brand">
-                    <img src="assets/img/logo/logo-white.png" alt="">
+                    <a href="<?php echo base_url();?>">
+                        <img src="<?php echo base_url();?>assets/img/logo/logo-white.png" alt="">
+                    </a>
                 </div>
                 <!-- end header brand -->
+
                 <nav class="header__nav">
                     <ul class="main__nav">
-                        <li class="nav__list"><a href="" class="nav__link">Home</a></li>
-                        <li class="nav__list"><a href="" class="nav__link">Courses</a></li>
-                        <li class="nav__list"><a href="" class="nav__link">Services</a></li>
-                        <li class="nav__list"><a href="" class="nav__link">About Us</a></li>
-                        <!-- <li class="nav__list"><a href="" class="nav__link"></a></li> -->
-                        <li class="nav__list"><a href="" class="nav__link">Contact Us</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>" class="nav__link">Home</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>" class="nav__link">Courses</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>" class="nav__link">Services</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>" class="nav__link">About Us</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>contact_us.php" class="nav__link">Contact Us</a></li>
                     </ul>
+                    <!-- end main nav -->
                 </nav>
                 <!-- end header nav -->
             </header>
