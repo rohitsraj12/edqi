@@ -18,7 +18,7 @@
                         <img src="<?php echo base_url();?>assets/img/banner/slider-02.jpg" alt="edqi bangalore">
                     </div>
                     <!-- end desktop banner -->
-                    
+
                     <div class="mobile__banner full__banner">
                         <img src="" alt="">
                     </div>
@@ -240,7 +240,6 @@
                         </div>
                     </div>
                     <!-- end section body -->
-
                 </section>
                 <!-- end section features -->
 
@@ -528,6 +527,7 @@
                         </div>
                     </div>
                 </section>
+                <!-- end section partners -->
             </main>
         </div>
         <!-- end body container -->
