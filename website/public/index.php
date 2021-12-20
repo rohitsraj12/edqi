@@ -2,7 +2,6 @@
     $page_title = "Home";
     $page_meta_key = "";
     $page_meta_description = "";
-
     // config file
     include('../private/config/url.config.php');
     include('../private/required/header.inc.php');
@@ -531,8 +530,6 @@
             </main>
         </div>
         <!-- end body container -->
-
-
 <?php
     include('../private/required/footer.inc.php');
 ?>
