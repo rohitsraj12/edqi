@@ -1,14 +1,11 @@
 <?php
-
     $page_title = "Home";
     $page_meta_key = "";
     $page_meta_description = "";
 
-
     // config file
     include('../private/config/url.config.php');
     include('../private/required/header.inc.php');
-
 ?>
         <div class="body__banner">
             <div class="wrap__banner">
@@ -21,11 +18,14 @@
                         <img src="<?php echo base_url();?>assets/img/banner/slider-02.jpg" alt="edqi bangalore">
                     </div>
                     <!-- end desktop banner -->
+                    
                     <div class="mobile__banner full__banner">
                         <img src="" alt="">
                     </div>
                 </div>
+                <!-- end banner image -->
             </div>
+            <!-- end wrap banner -->
         </div>
         <!-- end body banner -->
 
