@@ -130,8 +130,127 @@ ul {
     body footer
 
 ==============================================*/
+.footer__header {
+  padding-bottom: 10px;
+  padding-left: 4px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #747474;
+  font-family: var(--font-header);
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #ffffff;
+  position: relative;
+}
+
+.footer__header::before {
+  content: "";
+  width: 60px;
+  height: 4px;
+  background-color: rgb(162, 162, 162);
+
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.footer__content {
+  font-family: var(--font-primary);
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: #e6e6e6;
+  padding-left: 4px;
+}
+
 .body__footer {
-  background-color:var(--color-theme)
+  background-color:#1a1a1a;
+}
+
+.footer__brand {
+  padding: 10px 0 20px 4px;
+  margin: 0;
+}
+
+.footer__brand img {
+  height: 50px;
+}
+
+.footer__social-media ul {
+  padding-left: 4px;
+  display: flex;
+  flex-direction: row;
+}
+
+.footer__social-list + li {
+  margin-left: 10px;
+}
+
+.footer__social-link {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  border: 1px solid #e8e8e8;
+  color: #fff;
+  text-align: center;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  transition: ease-in-out 300ms;
+  -webkit-transition: ease-in-out 300ms;
+  -moz-transition: ease-in-out 300ms;
+  -ms-transition: ease-in-out 300ms;
+  -o-transition: ease-in-out 300ms;
+} 
+
+.footer__social-link:hover {
+  color: #fff;
+  border-color: var(--color-theme);
+  background-color: #10617783;
+}
+
+/* quick links */
+.footer__list {
+  margin-bottom: 10px;
+}
+
+.footer__link, .footer__contact-link {
+  font-family: var(--font-primary);
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: #fff;
+  transition: ease-in-out 300ms;
+  -webkit-transition: ease-in-out 300ms;
+  -moz-transition: ease-in-out 300ms;
+  -ms-transition: ease-in-out 300ms;
+  -o-transition: ease-in-out 300ms;
+}
+
+.footer__link:hover, .footer__contact-link:hover {
+  color: var(--color-theme)
+}
+
+/* footer contact detail */
+.footer__contact-list {
+  padding-bottom: 10px;
+}
+.footer__contact-left {
+  width: 20px;
+  margin-right: 10px;
+  /* background-color: red; */
+}
+
+/* copy rights */
+.copy__right {
+  text-align: center;
+  background-color: #1f1f1f;
+}
+
+.copy__right p {
+  margin: 0;
+  padding: 10px;
+  color:rgb(219, 219, 219);
 }
 
 /* ===========================================
