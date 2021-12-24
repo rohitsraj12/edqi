@@ -6,7 +6,7 @@
             <div class="container py-5">
                 <div class="row">
                     <div class="col-md-4">
-                        <article>
+                        <article class="footer__aticle">
                             <header class="footer__header">
                                 About Us
                             </header>
@@ -40,7 +40,7 @@
                         </article>
                     </div>
                     <div class="col-md-5">
-                        <article>
+                        <article class="footer__aticle">
                             <header class="footer__header">
                                 Quick Links
                             </header>
@@ -106,7 +106,7 @@
                         </article>
                     </div>
                     <div class="col-md-3">
-                        <article>
+                        <article class="footer__aticle">
                             <header class="footer__header">
                                 Contact Details
                             </header>
@@ -158,12 +158,18 @@
             <div class="copy__right">
                 <div class="container">
                     <p>
-                        copy rights 2021 &copy; <a href="">edqi.in</a> | <a href="">Privacy Policy</a> | 
+                        copy rights 2021 &copy; <a class="footer__copyright-link" href="">edqi.in</a> | <a class="footer__copyright-link" href="">Privacy Policy</a> | developed by <a class="footer__copyright-link" href="http://github.com/rohitsraj12/" target="_blank">rohitwebco.com</a>
                     </p>
                 </div>
             </div>
         </div>
         <!-- end body footer -->
+
+        <div class="section__fixed">
+            <div class="fixed__chat-boot">
+            <i class="fa fa-comment-o" aria-hidden="true"></i>
+            </div>
+        </div>
     </div>
     <!-- body wrap -->
 
