@@ -105,8 +105,8 @@
 
     /* home testimonials
     ====================================== */
-    .section__testimonials .section__body {
-        width: 50%;
+    .section__testimonials .section__body blockquote{
+        width: 60%;
     }
 
 }
@@ -159,10 +159,26 @@
         color: #fff;
     }
 
+    /* ======================================
+    
+       body footer
+    
+    ==========================================*/
+    .footer__aticle {
+        margin-bottom: 40px;
+    }
+
+
     .desktop__banner {
         display: none;
     }
 
+
+    /* ======================================
+    
+       body container
+    
+    ==========================================*/
     
     /* home testimonials
     ====================================== */
