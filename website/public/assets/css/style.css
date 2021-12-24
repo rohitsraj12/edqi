@@ -106,6 +106,51 @@ ul {
   color: #4e4e4e;
 }
 
+.bread__crumb ul {
+  display: flex;
+  flex-direction: row;
+}
+
+/* .bread__crumb ul li + li {
+  margin-left: 20px;
+} */
+
+.bread__crumb ul li::after {
+  content: "\f101";
+  padding: 0 10px;
+  font-family: FontAwesome;
+   display: inline-block;
+   padding-right: 6px;
+   /* vertical-align: middle; */
+   color: #848484;
+}
+
+.bread__crumb ul li:last-child::after{
+  content: "";
+}
+
+.bread__crumb ul li {
+  font-family: var(--font-primary);
+  font-size: 0.9rem;
+  color: #3c3c3c;
+}
+
+.bread__crumb ul li a {
+  font-family: var(--font-primary);
+  font-size: 1rem;
+  color: var(--color-theme);
+  transition: ease-in-out 400ms;
+  -webkit-transition: ease-in-out 400ms;
+  -moz-transition: ease-in-out 400ms;
+  -ms-transition: ease-in-out 400ms;
+  -o-transition: ease-in-out 400ms;
+}
+
+.bread__crumb ul li a:hover {
+  opacity: 0.8;
+}
+
+
 /* ===========================================
 
     Predefine classes
@@ -466,5 +511,4 @@ background-size: cover;
 
 .carousel-indicators .active {
   height: 6px;
-
 }
