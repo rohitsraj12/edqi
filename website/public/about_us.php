@@ -31,7 +31,7 @@
             <div class="container">
                 <ul>
                     <li class="bread__crumb-parent">
-                        <a href="">
+                        <a href="<?php echo base_url();?>">
                             <i class="fa fa-home" aria-hidden="true"></i>
                         </a>
                     </li>
