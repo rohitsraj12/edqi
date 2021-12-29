@@ -15,7 +15,7 @@
                     data-aos-delay="50"
                     data-aos-duration="1000"
                     data-aos-easing="ease-in">
-                    <img src="<?php echo base_url();?>assets/img/banner/about_us.jpg" alt="edqi bangalore">
+                    <img src="<?php echo base_url();?>assets/img/banner/contact_us.jpg" alt="edqi bangalore">
                 </div>
                 <!-- end desktop banner -->
                 <div class="mobile__banner full__banner">
@@ -42,6 +42,13 @@
             </div>
         </div>
 
+        <main>
+            <section class="section__about-us">
+                <div class="container">
+                    <div class="row"></div>
+                </div>
+            </section>
+        </main>
     </div>
     <!-- end body container -->
 
