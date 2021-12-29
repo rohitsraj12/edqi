@@ -43,11 +43,11 @@
 <body>
 
     <div class="body__wrap">
-        <div class="body__header" data-aos="fade-down"
-                        data-aos-offset="100"
-                        data-aos-delay="50"
-                        data-aos-duration="2000"
-                        data-aos-easing="ease-in-out">
+        <div class="body__header absolute__header" data-aos="fade-down"
+            data-aos-offset="100"
+            data-aos-delay="50"
+            data-aos-duration="2000"
+            data-aos-easing="ease-in-out">
             <div class="hamburger">
                 <svg viewBox="0 0 100 80" width="40" height="40">
                     <rect width="80" height="5"></rect>
