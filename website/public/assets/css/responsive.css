@@ -18,10 +18,24 @@
         /* filter: blur(1px);
         -webkit-filter: blur(1px); */
         /* box-shadow: 0 0 10px rgba(0,0,0,0.2); */
+    }
+
+    .absolute__header {
         position: absolute;
         top: 0;
         left: 0;
+    }
 
+    .fixed__header {
+        background-color: #111111;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 999;
+    }
+
+    .fixed__header header__brand img {
+        height: 30px;
     }
 
     .body__header header {
