@@ -29,6 +29,21 @@
     <!-- end body banner -->
 
     <div class="body__container">
+        
+    <div class="bread__crumb bg-light py-2 border-bottom">
+            <div class="container">
+                <ul>
+                    <li class="bread__crumb-parent">
+                        <a href="<?php echo base_url();?>">
+                            <i class="fa fa-home" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li class="bread__crumb-parent">
+                        Contact us
+                    </li>
+                </ul>
+            </div>
+        </div>
         <main>
 
         </main>
