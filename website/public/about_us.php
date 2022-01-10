@@ -5,6 +5,8 @@
     // config file
     include('../private/config/url.config.php');
     include('../private/required/header.inc.php');
+
+    // http://preview.themeforest.net/item/atena-college-university-and-campus-template/full_screen_preview/13090694?_ga=2.237159488.1949033100.1637125469-719680716.1604380046
 ?>
 
     <div class="body__banner">
