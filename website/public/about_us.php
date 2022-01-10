@@ -43,9 +43,42 @@
         </div>
 
         <main>
-            <section class="section__about-us">
+            <section class="section__about-us py-5">
                 <div class="container">
-                    <div class="row"></div>
+                    <div class="row">
+                        <div class="col-12">
+                            <section>
+                                <header class="section__header text-center">
+                                    <h2 class="primary-header">
+                                        Some words about Atena
+                                    </h2>
+                                    <p class="section__sub-header">
+                                        Cum doctus civibus efficiantur in imperdiet deterruisset.
+                                    </p>
+                                </header>
+
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <section class="section__about-left">
+                                            <article>
+                                                <div class="section__body">
+                                                    <h2>
+                                                        Founded
+                                                    </h2>
+                                                    <p>
+                                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione expedita explicabo, veritatis alias ducimus molestias temporibus voluptas reiciendis dignissimos.
+                                                    </p>
+                                                    <p>
+                                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae accusantium est commodi tenetur ratione nesciunt, expedita voluptates dignissimos. Sed quibusdam nihil beatae eligendi? Laborum aut mollitia magni, minima nobis tempora!
+                                                    </p>
+                                                </div>
+                                            </article>
+                                        </section>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
                 </div>
             </section>
         </main>
