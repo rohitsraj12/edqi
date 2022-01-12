@@ -192,8 +192,8 @@
             </section>
             <!-- end about us section -->
 
-            <section class="section__about-service pb-5">
-                <div class="container">
+            <section class="section__about-service">
+                <div class="container border-bottom pb-4">
                     <div class="row">
                         <div class="col-12 col-sm-6 col-md-4">
                             <section>
@@ -250,6 +250,148 @@
                 </div>
             </section>
             <!-- end section about service -->
+
+            <section class="section__about-gallery">
+
+                <div class="wrap__gallery">    
+                    <div class="gallery__block">
+                        <article>
+                            <header>
+                                Gallery
+                            </header>
+                        </article>
+                    </div>
+                    <div class="gallery__block">
+                        <figure>
+                            <img src="assets/img/gallery/001.jpg" alt="">
+                        </figure>
+                    </div>
+                    <div class="gallery__block">
+                        <figure>
+                            <img src="assets/img/gallery/001.jpg" alt="">
+                        </figure>
+                    </div>
+                    <div class="gallery__block">
+                        <figure>
+                            <img src="assets/img/gallery/001.jpg" alt="">
+                        </figure>
+                    </div>
+
+                </div>
+            </section>
+            <!-- end section about gallery -->
+
+            <section class="section__testimonials py-5">
+                <section class="container py-4">
+                    <header class="section__header mb-2" data-aos="fade-up"
+                                    data-aos-offset="100"
+                                    data-aos-delay="50"
+                                    data-aos-duration="1000"
+                                    data-aos-easing="ease-in-out">
+                        <h4 class="primary-header text-center">
+                            Testimonials 
+                        </h4>
+                        <!-- <h6 class="text-center section__sub-header">
+                            Cum doctus civibus efficiantur in imperdiet deterruisset.
+                        </h6> -->
+                    </header>
+                    <!-- end section header -->
+                </section>
+                <section class="section__body pb-5" data-aos="fade-up"
+                    data-aos-offset="100"
+                    data-aos-delay="50"
+                    data-aos-duration="1000"
+                    data-aos-easing="ease-in-out">
+                    <div class="container">
+                        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                            </div>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <blockquote>
+                                        <article>
+                                            <div class="testimonial__msg pb-4 text-center">
+                                                <p>
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, dolorem omnis nostrum architecto repellendus distinctio, voluptas sint vero ratione rerum iste quaerat non delectus corrupti inventore consequatur in, nesciunt dignissimos?
+                                                </p>
+                                            </div>
+                                            <footer class="text-center">
+                                                <cite>
+                                                    <h6 class="m-0 pb-2">
+                                                        name
+                                                    </h6>
+                                                    <p>
+                                                        Web Development student
+                                                    </p>
+                                                </cite>
+                                            </footer>
+
+                                        </article>
+
+                                    </blockquote>
+                                </div>
+                                <div class="carousel-item">
+                                    <blockquote>
+                                        <article>
+                                            <div class="testimonial__msg pb-4 text-center">
+                                                <p>
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, dolorem omnis nostrum architecto repellendus distinctio, voluptas sint vero ratione rerum iste quaerat non delectus corrupti inventore consequatur in, nesciunt dignissimos?
+                                                </p>
+                                            </div>
+                                            <footer class="text-center">
+                                                <cite>
+                                                    <h6 class="m-0 pb-2">
+                                                        name
+                                                    </h6>
+                                                    <p>
+                                                        Web Development student
+                                                    </p>
+                                                </cite>
+                                            </footer>
+                                        </article>
+                                    </blockquote>
+                                </div>
+                                <div class="carousel-item">
+                                    
+                                    <blockquote>
+                                        <article>
+                                            <div class="testimonial__msg pb-4 text-center">
+                                                <p>
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, dolorem omnis nostrum architecto repellendus distinctio, voluptas sint vero ratione rerum iste quaerat non delectus corrupti inventore consequatur in, nesciunt dignissimos?
+                                                </p>
+                                            </div>
+                                            <footer class="text-center">
+                                                <cite>
+                                                    <h6 class="m-0 pb-2">
+                                                        name
+                                                    </h6>
+                                                    <p>
+                                                        Web Development student
+                                                    </p>
+                                                </cite>
+                                            </footer>
+
+                                        </article>
+
+                                    </blockquote>
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                    </div>
+                </section>
+            </section>
+            <!-- end section testimonials -->
         </main>
     </div>
     <!-- end body container -->
