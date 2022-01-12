@@ -114,7 +114,7 @@
 
                                             <div class="content__right">
                                                 <header>
-                                                    <h2>Quality Certifications</h2> 
+                                                    <h2 class="secondary__header">Quality Certifications</h2> 
                                                 </header>
                                                 <p>
                                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem est nulla dolorem nam, necessitatibus saepe. Omnis voluptas eos nihil dolorum quia commodi cum, eaque culpa a quam et est quod?
@@ -136,7 +136,7 @@
 
                                             <div class="content__right">
                                                 <header>
-                                                    <h2>Quality Certifications</h2> 
+                                                    <h2 class="secondary__header">Quality Certifications</h2> 
                                                 </header>
                                                 <p>
                                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem est nulla dolorem nam, necessitatibus saepe. Omnis voluptas eos nihil dolorum quia commodi cum, eaque culpa a quam et est quod?
@@ -158,7 +158,7 @@
 
                                             <div class="content__right">
                                                 <header>
-                                                    <h2>Quality Certifications</h2> 
+                                                    <h2 class="secondary__header">Quality Certifications</h2> 
                                                 </header>
                                                 <p>
                                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem est nulla dolorem nam, necessitatibus saepe. Omnis voluptas eos nihil dolorum quia commodi cum, eaque culpa a quam et est quod?
@@ -182,7 +182,7 @@
 
                                             <div class="content__right">
                                                 <header>
-                                                    <h2>Quality Certifications</h2> 
+                                                    <h2 class="secondary__header">Quality Certifications</h2> 
                                                 </header>
                                                 <p>
                                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem est nulla dolorem nam, necessitatibus saepe. Omnis voluptas eos nihil dolorum quia commodi cum, eaque culpa a quam et est quod?
@@ -204,7 +204,7 @@
 
                                             <div class="content__right">
                                                 <header>
-                                                    <h2>Quality Certifications</h2> 
+                                                    <h2 class="secondary__header">Quality Certifications</h2> 
                                                 </header>
                                                 <p>
                                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem est nulla dolorem nam, necessitatibus saepe. Omnis voluptas eos nihil dolorum quia commodi cum, eaque culpa a quam et est quod?
@@ -226,7 +226,7 @@
 
                                             <div class="content__right">
                                                 <header>
-                                                    <h2>Quality Certifications</h2> 
+                                                    <h2 class="secondary__header">Quality Certifications</h2> 
                                                 </header>
                                                 <p>
                                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem est nulla dolorem nam, necessitatibus saepe. Omnis voluptas eos nihil dolorum quia commodi cum, eaque culpa a quam et est quod?
@@ -269,7 +269,7 @@
                                         data-aos-duration="1000"
                                         data-aos-easing="ease-in-out">
                                             <header>
-                                                <h3>
+                                                <h3 class="secondary__header">
                                                     1. Students Growth
                                                 </h3>
                                             </header>
@@ -284,7 +284,7 @@
                                         data-aos-duration="1000"
                                         data-aos-easing="ease-in-out">
                                             <header>
-                                                <h3>
+                                                <h3 class="secondary__header">
                                                     2. Students Growth
                                                 </h3>
                                             </header>
@@ -311,7 +311,7 @@
                                         data-aos-duration="1000"
                                         data-aos-easing="ease-in-out">
                                             <header>
-                                                <h3>
+                                                <h3 class="secondary__header">
                                                     3. Students Growth
                                                 </h3>
                                             </header>
@@ -326,7 +326,7 @@
                                         data-aos-duration="1000"
                                         data-aos-easing="ease-in-out">
                                             <header>
-                                                <h3>
+                                                <h3 class="secondary__header">
                                                     4. Students Growth
                                                 </h3>
                                             </header>
