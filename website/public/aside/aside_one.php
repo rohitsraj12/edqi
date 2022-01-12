@@ -78,7 +78,7 @@
                 </p>
             
                 <footer>
-                    <button class="btn btn__primary">
+                    <button class="btn btn__primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
                         Apply Now
                     </button>
                 </footer>
@@ -87,3 +87,7 @@
 
     </section>
 </aside>
+
+<?php
+    include("../modal/form.php");
+?>
