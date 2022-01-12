@@ -158,7 +158,7 @@
             <div class="copy__right">
                 <div class="container">
                     <p>
-                        copy rights 2021 &copy; <a class="footer__copyright-link" href="">edqi.in</a> | <a class="footer__copyright-link" href="">Privacy Policy</a> | developed by <a class="footer__copyright-link" href="http://github.com/rohitsraj12/" target="_blank">rohitwebco.com</a>
+                        Copy Rights &copy; <script>document.write(new Date().getFullYear());</script> <a class="footer__copyright-link" href="">edqi.in</a> | <a class="footer__copyright-link" href="">Privacy Policy</a> | developed by <a class="footer__copyright-link" href="http://github.com/rohitsraj12/" target="_blank">rohitwebco.com</a>
                     </p>
                 </div>
             </div>
