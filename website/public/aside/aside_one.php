@@ -78,7 +78,7 @@
                 </p>
             
                 <footer>
-                    <button class="btn btn__primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                    <button class="btn btn__primary" data-bs-toggle="modal" data-bs-target="#enqiry-form">
                         Apply Now
                     </button>
                 </footer>
@@ -87,7 +87,3 @@
 
     </section>
 </aside>
-
-<?php
-    include("../modal/form.php");
-?>
