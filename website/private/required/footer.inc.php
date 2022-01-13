@@ -56,8 +56,18 @@
                                                     </a>
                                                 </li>
                                                 <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>" class="footer__link">
+                                                    <a href="<?php echo base_url();?>about_us.php" class="footer__link">
                                                         About
+                                                    </a>
+                                                </li>
+                                                <li class="footer__list">
+                                                    <a href="<?php echo base_url();?>services/" class="footer__link">
+                                                        Services
+                                                    </a>
+                                                </li>
+                                                <li class="footer__list">
+                                                    <a href="<?php echo base_url();?>courses/" class="footer__link">
+                                                        Courses
                                                     </a>
                                                 </li>
                                                 <li class="footer__list">
@@ -66,7 +76,7 @@
                                                     </a>
                                                 </li>
                                                 <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>" class="footer__link">
+                                                    <a href="<?php echo base_url();?>contact_us.php" class="footer__link">
                                                         Contact Us
                                                     </a>
                                                 </li>
@@ -79,22 +89,22 @@
                                         <div class="footer__links">
                                             <ul>
                                                 <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>" class="footer__link">
+                                                    <a href="<?php echo base_url();?>courses/course_detail.php" class="footer__link">
                                                         Web Development course
                                                     </a>
                                                 </li>
                                                 <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>" class="footer__link">
+                                                    <a href="<?php echo base_url();?>courses/course_detail.php" class="footer__link">
                                                         Java Course
                                                     </a>
                                                 </li>
                                                 <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>" class="footer__link">
+                                                    <a href="<?php echo base_url();?>courses/course_detail.php" class="footer__link">
                                                         Microsoft Course
                                                     </a>
                                                 </li>
                                                 <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>" class="footer__link">
+                                                    <a href="<?php echo base_url();?>courses/course_detail.php" class="footer__link">
                                                         SAP coure
                                                     </a>
                                                 </li>
