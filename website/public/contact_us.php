@@ -30,7 +30,7 @@
 
     <div class="body__container">
         
-    <div class="bread__crumb bg-light py-2 border-bottom">
+        <div class="bread__crumb bg-light py-2 border-bottom">
             <div class="container">
                 <ul>
                     <li class="bread__crumb-parent">
@@ -44,8 +44,18 @@
                 </ul>
             </div>
         </div>
+
+        
         <main>
-            
+            <section class="section__contact">
+                <div class="row">
+                    <div class="col-12 col-sm-4">
+                        
+                    </div>
+                    <div class="col-12 col-sm-4"></div>
+                    <div class="col-12 col-sm-4"></div>
+                </div>
+            </section>
         </main>
     </div>
 
