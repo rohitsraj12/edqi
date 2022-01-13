@@ -44,7 +44,6 @@
                 </ul>
             </div>
         </div>
-
         
         <main>
             <section class="section__contact">
