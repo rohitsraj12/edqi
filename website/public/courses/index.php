@@ -27,7 +27,11 @@
     </div>
     <!-- end body banner -->
 
-    <div class="body__container">
+    <div class="body__container" data-aos="fade-in"
+        data-aos-offset="100"
+        data-aos-delay="50"
+        data-aos-duration="1000"
+        data-aos-easing="ease-in-out">
         <div class="bread__crumb bg-light py-2 border-bottom">
             <div class="container">
                 <ul>
@@ -68,7 +72,11 @@
                         <section class="section__course py-5">
                             
                             <!-- end section header -->
-                            <article class="article__course d-md-flex">
+                            <article class="article__course d-md-flex" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                 <figure>
                                     <img src="<?php echo base_url();?>assets/img/course/01.jpg" alt="">
                                 </figure>
@@ -98,7 +106,11 @@
                                 </footer>
                             </article>
 
-                            <article class="article__course d-md-flex">
+                            <article class="article__course d-md-flex" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                 <figure>
                                     <img src="<?php echo base_url();?>assets/img/course/01.jpg" alt="">
                                 </figure>
@@ -128,7 +140,11 @@
                                 </footer>
                             </article>
 
-                            <article class="article__course d-md-flex">
+                            <article class="article__course d-md-flex" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                 <figure>
                                     <img src="<?php echo base_url();?>assets/img/course/01.jpg" alt="">
                                 </figure>
@@ -158,7 +174,11 @@
                                 </footer>
                             </article>
 
-                            <article class="article__course d-md-flex">
+                            <article class="article__course d-md-flex" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                 <figure>
                                     <img src="<?php echo base_url();?>assets/img/course/01.jpg" alt="">
                                 </figure>
