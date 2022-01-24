@@ -20,7 +20,7 @@
                 </div>
                 <!-- end desktop banner -->
                 <div class="mobile__banner full__banner">
-                    <img src="" alt="">
+                    <img src="<?php echo base_url();?>assets/img/banner/contact_us_sm.jpg" alt="">
                 </div>
             </div>
         </div>
