@@ -35,7 +35,11 @@
     </div>
     <!-- end body banner -->
 
-    <div class="body__container">
+    <div class="body__container" data-aos="fade-in"
+        data-aos-offset="100"
+        data-aos-delay="50"
+        data-aos-duration="1000"
+        data-aos-easing="ease-in-out">
         <div class="bread__crumb bg-light py-2 border-bottom">
             <div class="container">
                 <ul>
@@ -57,9 +61,13 @@
                     <div class="row">
                         <div class="col-12">
                             <section>
-                                <header class="section__header text-center py-5">
+                                <header class="section__header text-center py-5"  data-aos="fade-up"
+                                        data-aos-offset="100"
+                                        data-aos-delay="50"
+                                        data-aos-duration="1000"
+                                        data-aos-easing="ease-in-out">
                                     <h2 class="primary-header">
-                                        Some words about Atena
+                                        Some words about EDQI
                                     </h2>
                                     <p class="section__sub-header">
                                         Cum doctus civibus efficiantur in imperdiet deterruisset.
@@ -71,41 +79,63 @@
                                         <section class="section__about-left">
                                             <article>
                                                 <div class="section__body">
-                                                    <h2 class="secondary__header">
-                                                        Founded
-                                                    </h2>
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione expedita explicabo, veritatis alias ducimus molestias temporibus voluptas reiciendis dignissimos.
-                                                    </p>
-                                                    <p>
-                                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae accusantium est commodi tenetur ratione nesciunt, expedita voluptates dignissimos. Sed quibusdam nihil beatae eligendi? Laborum aut mollitia magni, minima nobis tempora!
-                                                    </p>
+                                                    <div  data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
+                                                        <h2 class="secondary__header">
+                                                            Founded
+                                                        </h2>
+                                                        <p>
+                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione expedita explicabo, veritatis alias ducimus molestias temporibus voluptas reiciendis dignissimos.
+                                                        </p>
+                                                        <p>
+                                                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae accusantium est commodi tenetur ratione nesciunt, expedita voluptates dignissimos. Sed quibusdam nihil beatae eligendi? Laborum aut mollitia magni, minima nobis tempora!
+                                                        </p>
 
-                                                    <ul class="d-sm-flex flex-sm-wrap found__points mb-3">
-                                                        <li class="w-50">Lorem, ipsum dolor. </li>
-                                                        <li class="w-50">Lorem, ipsum dolor.</li>
-                                                        <li class="w-50">Lorem ipsum dolor sit amet.</li>
-                                                        <li class="w-50">Lorem, ipsum dolor.</li>
-                                                        <li class="w-50">Lorem ipsum dolor sit amet.</li>
-                                                        <li class="w-50">Lorem ipsum dolor si.</li>
-                                                    </ul>
-
-                                                    <h2 class="secondary__header pt-3">
-                                                        EDQI name
-                                                    </h2>
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione expedita explicabo, veritatis alias ducimus molestias temporibus voluptas reiciendis dignissimos.
-                                                    </p>
-                                                    <h2 class="secondary__header pt-3">
-                                                        Founders and Director
-                                                    </h2>
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione expedita explicabo, veritatis alias ducimus molestias temporibus voluptas reiciendis dignissimos.
-                                                    </p>
+                                                        <ul class="d-sm-flex flex-sm-wrap found__points mb-3">
+                                                            <li class="w-50">Lorem, ipsum dolor. </li>
+                                                            <li class="w-50">Lorem, ipsum dolor.</li>
+                                                            <li class="w-50">Lorem ipsum dolor sit amet.</li>
+                                                            <li class="w-50">Lorem, ipsum dolor.</li>
+                                                            <li class="w-50">Lorem ipsum dolor sit amet.</li>
+                                                            <li class="w-50">Lorem ipsum dolor si.</li>
+                                                        </ul>
+                                                    </div>
+                                                    <div  data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
+                                                        <h2 class="secondary__header pt-3">
+                                                            EDQI name
+                                                        </h2>
+                                                        <p>
+                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione expedita explicabo, veritatis alias ducimus molestias temporibus voluptas reiciendis dignissimos.
+                                                        </p>
+                                                    </div>
+                                                    <div data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
+                                                        <h2 class="secondary__header pt-3">
+                                                            Founders and Director
+                                                        </h2>
+                                                        <p>
+                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione expedita explicabo, veritatis alias ducimus molestias temporibus voluptas reiciendis dignissimos.
+                                                        </p>
+                                                    </div>
+                                                    
 
                                                     <div class="row">
                                                         <div class="col-sm-4">
-                                                            <div class="faculty__wrap">
+                                                            <div class="faculty__wrap" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                                                 <div class="left">
                                                                     <figure>
                                                                         <img src="<?php echo base_url();?>assets/img/faculty/01.jpg" alt="">
@@ -122,7 +152,11 @@
                                                             </div>
                                                         </div>
                                                         <div class="col-sm-4">
-                                                            <div class="faculty__wrap">
+                                                            <div class="faculty__wrap"  data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="100"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                                                 <div class="left">
                                                                     <figure>
                                                                         <img src="<?php echo base_url();?>assets/img/faculty/01.jpg" alt="">
@@ -139,7 +173,11 @@
                                                             </div>
                                                         </div>
                                                         <div class="col-sm-4">
-                                                            <div class="faculty__wrap">
+                                                            <div class="faculty__wrap"  data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="150"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                                                 <div class="left">
                                                                     <figure>
                                                                         <img src="<?php echo base_url();?>assets/img/faculty/01.jpg" alt="">
@@ -161,7 +199,11 @@
                                         </section>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="section__about-right p-3 border">
+                                        <div class="section__about-right p-3 border"  data-aos="fade-up"
+                                        data-aos-offset="100"
+                                        data-aos-delay="50"
+                                        data-aos-duration="1000"
+                                        data-aos-easing="ease-in-out">
                                             <section>
                                                 <article>
                                                     <header class="secondary__header-sub ">
@@ -192,7 +234,11 @@
             </section>
             <!-- end about us section -->
 
-            <section class="section__about-service">
+            <section class="section__about-service"  data-aos="fade-up"
+                data-aos-offset="100"
+                data-aos-delay="50"
+                data-aos-duration="1000"
+                data-aos-easing="ease-in-out">
                 <div class="container border-bottom pb-4">
                     <div class="row">
                         <div class="col-12 col-sm-6 col-md-4">
@@ -251,7 +297,7 @@
             </section>
             <!-- end section about service -->
 
-            <section class="section__about-gallery">
+            <!-- <section class="section__about-gallery">
 
                 <div class="wrap__gallery">    
                     <div class="gallery__block">
@@ -278,7 +324,7 @@
                     </div>
 
                 </div>
-            </section>
+            </section> -->
             <!-- end section about gallery -->
 
             <section class="section__testimonials py-5">
