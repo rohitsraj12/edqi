@@ -26,7 +26,7 @@
   --color-white: #ffffff;
   --color-theme: #106177;
   --color-dark: #111111;
-
+  /* --color-theme: rgb(30, 132, 211); */
   /* link and button */
   --color-btn:  rgb(67, 210, 250);
   --color-link: rgb(67, 210, 250);
@@ -482,7 +482,7 @@ background-size: cover;
   text-align: center;
   font-size: 26px;
   line-height: 60px;
-  background-color: var(--color-theme);
+  background-color: rgb(30, 132, 211);;
   color: #fff;
   position: fixed;
   bottom: 40px;
@@ -989,6 +989,37 @@ background-size: cover;
   margin: 0 auto;
 }
 
+.contact-us__social-list + li{
+  margin-left: 10px;
+}
+
+.contact-us__social-link {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 1.1rem;
+  background-color: rgb(30, 132, 211);
+  color: #ffffff;
+  transition: ease-in-out 300ms;
+  -webkit-transition: ease-in-out 300ms;
+  -moz-transition: ease-in-out 300ms;
+  -ms-transition: ease-in-out 300ms;
+  -o-transition: ease-in-out 300ms;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+}
+
+
+.contact-us__social-link:hover {
+  opacity: 0.8;
+  color: #ffffff;
+}
+
 /*  type 2
 ============================================= */
 
@@ -999,7 +1030,7 @@ background-size: cover;
 .contact-us__two figure i {
   font-size: 1.5rem;
   line-height: 70px;
-  background-color:rgb(19, 133, 165);
+  background-color:rgb(30, 132, 211);;
   /*background-image: url('../../assets/img/bg/svg-1.svg');
   */width: 70px;
   height: 70px;
@@ -1020,7 +1051,7 @@ background-size: cover;
   position:absolute;
   bottom:-31px;
   left: 28px;
-  color: rgb(19, 133, 165);
+  color: rgb(30, 132, 211);;
 }
 
 .contact-us__info-two-text-header {
