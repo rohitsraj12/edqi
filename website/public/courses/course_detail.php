@@ -26,7 +26,11 @@
     </div>
     <!-- end body banner -->
 
-    <div class="body__container">
+    <div class="body__container"data-aos="fade-in"
+        data-aos-offset="100"
+        data-aos-delay="50"
+        data-aos-duration="1000"
+        data-aos-easing="ease-in-out">
         <div class="bread__crumb bg-light py-2 border-bottom">
             <div class="container">
                 <ul>
@@ -72,11 +76,19 @@
                     <div class="col-12 col-md-9">
                         <section class="section__course-detail py-5">
                             <div class="row">
-                                <div class="col-1">
+                                <div class="col-1"data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                     <i class="fa fa-file-text-o" aria-hidden="true"></i>
                                 </div>
                                 <div class="col-11">
-                                    <article>
+                                    <article data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                         <header class="secondary__header">
                                             Summery
                                         </header>
@@ -115,14 +127,26 @@
                                 </div>
                             </div> 
 
-                            <hr class="hr__line">
+                            <hr class="hr__line" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                             
                             <div class="row">
-                                <div class="col-1">
+                                <div class="col-1"data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                     <i class="fa fa-book" aria-hidden="true"></i>
                                 </div>
                                 <div class="col-11">
-                                    <article>
+                                    <article data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                         <header class="secondary__header">
                                             Lessons
                                         </header>
@@ -144,14 +168,26 @@
                                 </div>
                             </div>
                             
-                            <hr class="hr__line">
+                            <hr class="hr__line" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                             
                             <div class="row">
-                                <div class="col-1">
+                                <div class="col-1"data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                     <i class="fa fa-user-o" aria-hidden="true"></i>
                                 </div>
                                 <div class="col-11">
-                                    <article>
+                                    <article data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                         <header class="secondary__header">
                                             Our Trainers
                                         </header>
@@ -217,7 +253,11 @@
                                 </div>
                             </div>
 
-                            <hr class="hr__line">
+                            <hr class="hr__line" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
 
                         </section>
                     </div>
