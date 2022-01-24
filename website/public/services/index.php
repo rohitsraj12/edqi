@@ -28,7 +28,11 @@
     <!-- end body banner -->
 
     <div class="body__container">
-        <div class="bread__crumb bg-light py-2 border-bottom">
+        <div class="bread__crumb bg-light py-2 border-bottom" data-aos="fade-in"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
             <div class="container">
                 <ul>
                     <li class="bread__crumb-parent">
@@ -68,7 +72,11 @@
                         <section class="section__service py-5">
                             <div class="row">
                                 <div class="col-12 col-sm-4 my-2">
-                                    <article class="article__service">
+                                    <article class="article__service" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                         <figure>
                                             <img class="w-100" src="<?php echo base_url();?>assets/img/course/01.jpg" alt="">
                                         </figure>
@@ -88,7 +96,11 @@
                                     </article>
                                 </div>
                                 <div class="col-12 col-sm-4 my-2">
-                                    <article class="article__service">
+                                    <article class="article__service" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                         <figure>
                                             <img class="w-100" src="<?php echo base_url();?>assets/img/course/01.jpg" alt="">
                                         </figure>
@@ -108,7 +120,11 @@
                                     </article>
                                 </div>
                                 <div class="col-12 col-sm-4 my-2">
-                                    <article class="article__service">
+                                    <article class="article__service" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                         <figure>
                                             <img class="w-100" src="<?php echo base_url();?>assets/img/course/01.jpg" alt="">
                                         </figure>
@@ -128,7 +144,11 @@
                                     </article>
                                 </div>
                                 <div class="col-12 col-sm-4 my-2">
-                                    <article class="article__service">
+                                    <article class="article__service" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                         <figure>
                                             <img class="w-100" src="<?php echo base_url();?>assets/img/course/01.jpg" alt="">
                                         </figure>
@@ -148,7 +168,11 @@
                                     </article>
                                 </div>
                                 <div class="col-12 col-sm-4 my-2">
-                                    <article class="article__service">
+                                    <article class="article__service" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                         <figure>
                                             <img class="w-100" src="<?php echo base_url();?>assets/img/course/01.jpg" alt="">
                                         </figure>
@@ -168,7 +192,11 @@
                                     </article>
                                 </div>
                                 <div class="col-12 col-sm-4 my-2">
-                                    <article class="article__service">
+                                    <article class="article__service" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
                                         <figure>
                                             <img class="w-100" src="<?php echo base_url();?>assets/img/course/01.jpg" alt="">
                                         </figure>
