@@ -1,10 +1,10 @@
 <aside class="py-5">
     <section class="section__promotion">
         <article class="ads__one" data-aos="fade-up"
-                                                        data-aos-offset="100"
-                                                        data-aos-delay="50"
-                                                        data-aos-duration="1000"
-                                                        data-aos-easing="ease-in-out">
+            data-aos-offset="100"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-out">
             <figure>
                 <i class="fa fa-address-card-o" aria-hidden="true"></i>
             </figure>
@@ -41,10 +41,10 @@
         <!-- end ads two -->
 
         <article class="pb-3" data-aos="fade-up"
-                                                        data-aos-offset="100"
-                                                        data-aos-delay="50"
-                                                        data-aos-duration="1000"
-                                                        data-aos-easing="ease-in-out">
+            data-aos-offset="100"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-out">
             <header class="aside__header">
                 How to apply
             </header>
@@ -53,35 +53,35 @@
             </p>
         </article>
         <article class="adise__contact" data-aos="fade-up"
-                                                        data-aos-offset="100"
-                                                        data-aos-delay="50"
-                                                        data-aos-duration="1000"
-                                                        data-aos-easing="ease-in-out">
+            data-aos-offset="100"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-out">
             <header class="adise__contact-header d-flex justify-content-between pb-2">
                 <span class="left">By Phone</span> <span class="right"><i class="fa fa-phone" aria-hidden="true"></i></span>
             </header>
             <ul class="aside__text">
-                <li><a class="aside__link" href="tel:+919999999999">+91 999 999 9999</a></li>
+                <li><a class="aside__link tel" href="tel:">+91 999 999 9999</a></li>
                 <li class="short__text">Monday to Friday 9.00am - 6.00pm</li>
             </ul>
         </article>
 
         <hr class="hr__line" data-aos="fade-up"
-                                                        data-aos-offset="100"
-                                                        data-aos-delay="50"
-                                                        data-aos-duration="1000"
-                                                        data-aos-easing="ease-in-out">
+        data-aos-offset="100"
+        data-aos-delay="50"
+        data-aos-duration="1000"
+        data-aos-easing="ease-in-out">
 
         <article class="adise__contact" data-aos="fade-up"
-                                                        data-aos-offset="100"
-                                                        data-aos-delay="50"
-                                                        data-aos-duration="1000"
-                                                        data-aos-easing="ease-in-out">
+            data-aos-offset="100"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-out">
             <header class="adise__contact-header d-flex justify-content-between pb-2">
                 <span class="left">E-Mail</span> <span class="right"><i class="fa fa-envelope-o" aria-hidden="true"></i></span>
             </header>
             <ul class="aside__text">
-                <li><a class="aside__link " href="mailto:contact@mail.com">contact@mail.com</a></li>
+                <li><a class="aside__link mailto" href="mailto:contact@mail.com">contact@mail.com</a></li>
                 <li class="short__text">We will contact you in 24 hours.</li>
             </ul>
         </article>
