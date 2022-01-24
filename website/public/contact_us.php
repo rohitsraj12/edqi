@@ -31,10 +31,10 @@
     <div class="body__container">
         
         <div class="bread__crumb bg-light py-2 border-bottom" data-aos="fade-in"
-                                                        data-aos-offset="100"
-                                                        data-aos-delay="50"
-                                                        data-aos-duration="1000"
-                                                        data-aos-easing="ease-in-out">
+            data-aos-offset="100"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-out">
             <div class="container">
                 <ul>
                     <li class="bread__crumb-parent">
@@ -52,10 +52,10 @@
         <main>
             <div class="container">
                 <header class="section__header text-center pt-5 pb-4" data-aos="fade-up"
-                                                    data-aos-offset="100"
-                                                    data-aos-delay="50"
-                                                    data-aos-duration="1000"
-                                                    data-aos-easing="ease-in-out">
+                    data-aos-offset="100"
+                    data-aos-delay="50"
+                    data-aos-duration="1000"
+                    data-aos-easing="ease-in-out">
                     <h2 class="primary-header">
                         Contact Us
                     </h2>
@@ -69,12 +69,12 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12 col-md-8">
-                            <div class="wrap__contact-us-form border p-5 bg-light" data-aos="fade-up"
+                            <div class="wrap__contact-us-form border px-5 pb-5 bg-light" data-aos="fade-up"
                                                         data-aos-offset="100"
                                                         data-aos-delay="50"
                                                         data-aos-duration="1000"
                                                         data-aos-easing="ease-in-out">
-                                <header class="secondary__header text-center">
+                                <header class="secondary__header text-center py-4 mb-4">
                                     Enquiry Form
                                 </header>
                                 <form action="" method="POST">
@@ -127,17 +127,17 @@
                                     <div class="contact-us__social-media">
                                         <ul class="d-flex">
                                             <li class="contact-us__social-list">
-                                                <a href="" class="contact-us__social-link">
+                                                <a href="https://www.facebook.com/Edqi.in/" class="contact-us__social-link" target="_blank">
                                                     <i class="fa fa-facebook" aria-hidden="true"></i>
                                                 </a>
                                             </li>
                                             <li class="contact-us__social-list">
-                                                <a href="" class="contact-us__social-link">
+                                                <a href="https://www.instagram.com/edqi/" class="contact-us__social-link" target="_blank">
                                                     <i class="fa fa-instagram" aria-hidden="true"></i>
                                                 </a>
                                             </li>
                                             <li class="contact-us__social-list">
-                                                <a href="" class="contact-us__social-link">
+                                                <a href="https://www.linkedin.com/company/edqi/" class="contact-us__social-link" target="_blank">
                                                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                                                 </a>
                                             </li>
@@ -226,10 +226,10 @@
                         <div class="col-12 col-sm-4">
                             <section>
                                 <article data-aos="fade-up"
-                                                        data-aos-offset="100"
-                                                        data-aos-delay="200"
-                                                        data-aos-duration="1000"
-                                                        data-aos-easing="ease-in-out">
+                                    data-aos-offset="100"
+                                    data-aos-delay="200"
+                                    data-aos-duration="1000"
+                                    data-aos-easing="ease-in-out">
                                     <figure>
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                     </figure>
@@ -239,7 +239,7 @@
                                                 Call Us                    
                                             </li>
                                             <li>
-                                                <a href="" class="contact-us__info-two-text">
+                                                <a href="" class="contact-us__info-two-text tel">
                                                     999 999 9999
                                                 </a>
                                             </li>
@@ -264,7 +264,7 @@
                                                 Email Us                    
                                             </li>
                                             <li>
-                                                <a href="" class="contact-us__info-two-text">
+                                                <a href="" class="contact-us__info-two-text mailto">
                                                     email@mail.com
                                                 </a>
                                             </li>
