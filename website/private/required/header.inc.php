@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -69,7 +68,7 @@
                         <li class="nav__list"><a href="<?php echo base_url();?>" class="nav__link">Home</a></li>
                         <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Courses</a></li>
                         <li class="nav__list"><a href="<?php echo base_url();?>services/" class="nav__link">Services</a></li>
-                        <li class="nav__list"><a href="<?php echo base_url();?>about_us.php" class="nav__link">About Us</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>about_us/" class="nav__link">About Us</a></li>
                         <li class="nav__list"><a href="<?php echo base_url();?>contact_us.php" class="nav__link">Contact Us</a></li>
                     </ul>
                     <!-- end main nav -->
