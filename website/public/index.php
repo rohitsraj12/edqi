@@ -19,7 +19,7 @@
                     <!-- end desktop banner -->
 
                     <div class="mobile__banner full__banner">
-                        <img src="" alt="">
+                        <img src="<?php echo base_url();?>assets/img/banner/slider-02-sm.jpg" alt="">
                     </div>
                 </div>
                 <!-- end banner image -->
