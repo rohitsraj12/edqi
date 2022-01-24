@@ -68,7 +68,7 @@
             <section class="section__contact-form mb-5">
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 col-md-7">
+                        <div class="col-12 col-md-8">
                             <div class="wrap__contact-us-form border p-5 bg-light" data-aos="fade-up"
                                                         data-aos-offset="100"
                                                         data-aos-delay="50"
@@ -114,7 +114,43 @@
                             </div>
                         </div>
 
-                        <div class="col-12 col-md-5">
+                        <div class="col-12 col-md-4">
+                            <section>
+                                <article class="article__social mb-4" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
+                                    <header class="secondary__header">
+                                        Follow us
+                                    </header>
+                                    <div class="contact-us__social-media">
+                                        <ul class="d-flex">
+                                            <li class="contact-us__social-list">
+                                                <a href="" class="contact-us__social-link">
+                                                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                                                </a>
+                                            </li>
+                                            <li class="contact-us__social-list">
+                                                <a href="" class="contact-us__social-link">
+                                                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                                                </a>
+                                            </li>
+                                            <li class="contact-us__social-list">
+                                                <a href="" class="contact-us__social-link">
+                                                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </article>
+                            </section>
+                            <hr class="hr__line" data-aos="fade-up"
+                            data-aos-offset="100"
+                            data-aos-delay="50"
+                            data-aos-duration="1000"
+                            data-aos-easing="ease-in-out">
+
                             <section>
                                 <article class="article__map" data-aos="fade-up"
                                                         data-aos-offset="100"
