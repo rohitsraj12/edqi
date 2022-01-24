@@ -21,17 +21,17 @@
                             <div class="footer__social-media">
                                 <ul>
                                     <li class="footer__social-list">
-                                        <a href="" class="footer__social-link">
+                                        <a href="https://www.facebook.com/Edqi.in/" class="footer__social-link social-fb" target="_blank">
                                             <i class="fa fa-facebook" aria-hidden="true"></i>
                                         </a>
                                     </li>
                                     <li class="footer__social-list">
-                                        <a href="" class="footer__social-link">
+                                        <a href="https://www.instagram.com/edqi/" class="footer__social-link" target="_blank">
                                             <i class="fa fa-instagram" aria-hidden="true"></i>
                                         </a>
                                     </li>
                                     <li class="footer__social-list">
-                                        <a href="" class="footer__social-link">
+                                        <a href="https://www.linkedin.com/company/edqi/" class="footer__social-link" target="_blank">
                                             <i class="fa fa-linkedin" aria-hidden="true"></i>
                                         </a>
                                     </li>
@@ -56,7 +56,7 @@
                                                     </a>
                                                 </li>
                                                 <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>about_us.php" class="footer__link">
+                                                    <a href="<?php echo base_url();?>about_us/" class="footer__link">
                                                         About
                                                     </a>
                                                 </li>
@@ -71,7 +71,12 @@
                                                     </a>
                                                 </li>
                                                 <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>" class="footer__link">
+                                                    <a href="<?php echo base_url();?>careers/" class="footer__link">
+                                                        Careers
+                                                    </a>
+                                                </li>
+                                                <li class="footer__list">
+                                                    <a href="<?php echo base_url();?>about_us/faq.php" class="footer__link">
                                                         FAQ
                                                     </a>
                                                 </li>
@@ -129,8 +134,8 @@
                                                 <i class="fa fa-phone" aria-hidden="true"></i>
                                             </div>
                                             <div class="footer__contact-right">
-                                                <a href="<?php echo base_url();?>" class="footer__contact-link">
-                                                   999 999 9999
+                                                <a href="" class="footer__contact-link tel">
+                                                   Loading
                                                 </a>
                                             </div>
                                         </li>
@@ -139,8 +144,8 @@
                                                 <i class="fa fa-envelope-o" aria-hidden="true"></i>
                                             </div>
                                             <div class="footer__contact-right">
-                                                <a href="<?php echo base_url();?>" class="footer__contact-link">
-                                                   email
+                                                <a href="" class="footer__contact-link mailto">
+                                                   loading
                                                 </a>
                                             </div>
                                         </li>
@@ -149,7 +154,7 @@
                                                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                                             </div>
                                             <div class="footer__contact-right">
-                                                <a href="<?php echo base_url();?>" class="footer__contact-link">
+                                                <a href="" class="footer__contact-link">
                                                    #21 bulding name,
                                                    <br>
                                                    area namespace asdasd
@@ -223,8 +228,9 @@
     <script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
     <!-- <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script> -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>  
-    <script src="assets/js/script.js"></script>
+    <script src="<?php echo base_url();?>assets/js/owl.carousel.min.js"></script>  
+    <script src="<?php echo base_url();?>assets/js/script.js"></script>
+    <script src="<?php echo base_url();?>assets/js/displayData.js"></script>
     <!-- load animation -->
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
