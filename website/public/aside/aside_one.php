@@ -1,6 +1,10 @@
 <aside class="py-5">
     <section class="section__promotion">
-        <article class="ads__one">
+        <article class="ads__one" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
             <figure>
                 <i class="fa fa-address-card-o" aria-hidden="true"></i>
             </figure>
@@ -36,7 +40,11 @@
         </article> -->
         <!-- end ads two -->
 
-        <article class="pb-3">
+        <article class="pb-3" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
             <header class="aside__header">
                 How to apply
             </header>
@@ -44,7 +52,11 @@
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores perferendis aperiam soluta atque mollitia veniam vel perspiciatis! Repudiandae, accusantium harum?
             </p>
         </article>
-        <article class="adise__contact">
+        <article class="adise__contact" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
             <header class="adise__contact-header d-flex justify-content-between pb-2">
                 <span class="left">By Phone</span> <span class="right"><i class="fa fa-phone" aria-hidden="true"></i></span>
             </header>
@@ -54,9 +66,17 @@
             </ul>
         </article>
 
-        <hr class="hr__line">
+        <hr class="hr__line" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
 
-        <article class="adise__contact">
+        <article class="adise__contact" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
             <header class="adise__contact-header d-flex justify-content-between pb-2">
                 <span class="left">E-Mail</span> <span class="right"><i class="fa fa-envelope-o" aria-hidden="true"></i></span>
             </header>
@@ -66,9 +86,17 @@
             </ul>
         </article>
 
-        <hr class="hr__line">
+        <hr class="hr__line" data-aos="fade-up"
+            data-aos-offset="100"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-out">
 
-        <article class="adise__contact">
+        <article class="adise__contact" data-aos="fade-up"
+            data-aos-offset="100"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-out">
             <header class="adise__contact-header d-flex justify-content-between pb-2">
                 <span class="left">Apply Online</span> <span class="right"><i class="fa fa-desktop" aria-hidden="true"></i></span>
             </header>
