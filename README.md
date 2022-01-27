@@ -15,4 +15,9 @@
     <li>
         <a href="http://preview.themeforest.net/item/eduread-multipurpose-education-template/full_screen_preview/20722292?_ga=2.232908254.172743349.1637911896-719680716.1604380046">ref web 5</a>
     </li>
+
+    <li>
+        <a href="https://blobs.app/">svg</a>
+    </li>
+    
 </ul>
