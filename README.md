@@ -20,3 +20,25 @@
     </li>
     
 </ul>
+
+# SVG generators
+<ul>
+    <li>
+        <a href="https://www.softr.io/tools/svg-shape-generator">svg shape generator </a>
+    </li>
+    <li>
+        <a href="https://fffuel.co/ffflux/">svg background generator </a>
+    </li>
+    <li>
+        <a href="https://app.haikei.app/">svg background generator </a>
+    </li>
+    
+</ul>
+
+# CSS online code Generators
+<ul>
+    <li>
+        <a href="https://cssgradient.io/">CSS background Gradient </a>
+    </li>
+    
+</ul>
