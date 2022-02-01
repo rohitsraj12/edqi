@@ -18,7 +18,6 @@
     <li>
         <a href="https://blobs.app/">svg shape generator</a>
     </li>
-    
 </ul>
 
 # SVG generators
@@ -32,7 +31,6 @@
     <li>
         <a href="https://app.haikei.app/">svg background generator </a>
     </li>
-    
 </ul>
 
 # CSS online code Generators
