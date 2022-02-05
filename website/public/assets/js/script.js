@@ -1,7 +1,8 @@
 $(document).ready(function(){    
     const mediaQuery = window.innerWidth;
 
-    $(".nav__link").click(function(){
+    $(".nav__link").click(function(e){
+        // e.preventDefault();
         // alert("hi");
         $(this).next(".sub__nav").slideToggle();
         // alert(12313);
