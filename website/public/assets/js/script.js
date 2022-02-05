@@ -1,11 +1,20 @@
 $(document).ready(function(){    
     const mediaQuery = window.innerWidth;
+    var nav = $(".nav__link");
+
+    $(nav).click(function(){
+        // alert("hi");
+        $(this).find(".sub__nav").slideToggle();
+        // alert(12313);
+    })
 
     if(mediaQuery < 768){
         // small desice and tabs
         $(".hamburger").click(function(){
             $(".header__nav").slideToggle(400);
         })
+
+        $("")
     } else {
         // large device
         $(window).scroll(function () {
