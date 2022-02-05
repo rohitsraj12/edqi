@@ -1,10 +1,9 @@
 $(document).ready(function(){    
     const mediaQuery = window.innerWidth;
-    var nav = $(".nav__link");
 
-    $(nav).click(function(){
+    $(".nav__link").click(function(){
         // alert("hi");
-        $(this).find(".sub__nav").slideToggle();
+        $(this).next(".sub__nav").slideToggle();
         // alert(12313);
     })
 
