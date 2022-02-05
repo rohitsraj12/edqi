@@ -74,7 +74,7 @@
                             <div class="sub__nav">
                                 <ul>
                                     <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/" class="sub-nav__link">Global certificated</a></li>
-                                    <li class="sub-nav__list"><a class="sub-nav__link" href="<?php echo base_url();?>courses/">Edqi Certificated</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/" class="sub-nav__link">Edqi Certificated</a></li>
                                 </ul>
                             </div>
                         </li>
