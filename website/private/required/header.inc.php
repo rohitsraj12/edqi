@@ -66,14 +66,17 @@
                 <nav class="header__nav">
                     <ul class="main__nav">
                         <li class="nav__list"><a href="<?php echo base_url();?>" class="nav__link">Home</a></li>
-                        <li class="nav__list"><a href="#" class="nav__link">Certification <i class="fa fa-angle-down"></i>
+                        <li class="nav__list">
+                            <a href="#" class="nav__link">
+                                Certification 
+                                <i class="fa fa-angle-down"></i>
+                            </a>    
                             <div class="sub__nav">
                                 <ul>
                                     <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/" class="sub-nav__link">Global certificated</a></li>
                                     <li class="sub-nav__list"><a class="sub-nav__link" href="<?php echo base_url();?>courses/">Edqi Certificated</a></li>
                                 </ul>
                             </div>
-                        </a>
                         </li>
                         <!-- <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Courses</a></li> -->
                         <li class="nav__list"><a href="<?php echo base_url();?>services/" class="nav__link">Services</a></li>
