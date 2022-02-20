@@ -65,11 +65,11 @@
                                                         Services
                                                     </a>
                                                 </li>
-                                                <li class="footer__list">
+                                                <!-- <li class="footer__list">
                                                     <a href="<?php echo base_url();?>courses/" class="footer__link">
                                                         Courses
                                                     </a>
-                                                </li>
+                                                </li> -->
                                                 <li class="footer__list">
                                                     <a href="<?php echo base_url();?>careers/" class="footer__link">
                                                         Careers
@@ -94,16 +94,16 @@
                                         <div class="footer__links">
                                             <ul>
                                                 <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>courses/course_detail.php" class="footer__link">
-                                                        Web Development course
+                                                    <a href="<?php echo base_url();?>courses/global_certifications/" class="footer__link">
+                                                        Global Certifications
                                                     </a>
                                                 </li>
                                                 <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>courses/course_detail.php" class="footer__link">
-                                                        Java Course
+                                                    <a href="<?php echo base_url();?>courses/edqi_certifications/" class="footer__link">
+                                                        EDQI Certifications
                                                     </a>
                                                 </li>
-                                                <li class="footer__list">
+                                                <!-- <li class="footer__list">
                                                     <a href="<?php echo base_url();?>courses/course_detail.php" class="footer__link">
                                                         Microsoft Course
                                                     </a>
@@ -112,7 +112,7 @@
                                                     <a href="<?php echo base_url();?>courses/course_detail.php" class="footer__link">
                                                         SAP coure
                                                     </a>
-                                                </li>
+                                                </li> -->
                                             </ul>
                                         </div>
                                     </div>
@@ -173,7 +173,7 @@
             <div class="copy__right">
                 <div class="container">
                     <p>
-                        Copy Rights &copy; <script>document.write(new Date().getFullYear());</script> <a class="footer__copyright-link" href="">edqi.in</a> | <a class="footer__copyright-link" href="">Privacy Policy</a> | developed by <a class="footer__copyright-link" href="http://github.com/rohitsraj12/" target="_blank">rohitwebco.com</a>
+                        Copy Rights &copy; <script>document.write(new Date().getFullYear());</script> <a class="footer__copyright-link" href="<?php echo base_url();?>">edqi.in</a> | <a class="footer__copyright-link" href="">Privacy Policy</a> | developed by <a class="footer__copyright-link" href="http://github.com/rohitsraj12/" target="_blank">rohitwebco.com</a>
                     </p>
                 </div>
             </div>
