@@ -108,7 +108,7 @@
                                     </ul>
                                 </div>
                                 <footer>
-                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/course_detail.php">Details</a>
+                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/adobe_certification.php">Details</a>
                                 </footer>
                             </article>
 
@@ -176,7 +176,7 @@
                                     </ul>
                                 </div>
                                 <footer>
-                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/course_detail.php">Details</a>
+                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/autocad_certified_user.php">Details</a>
                                 </footer>
                             </article>
 
