@@ -142,7 +142,7 @@
                                     </ul>
                                 </div>
                                 <footer>
-                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/course_detail.php">Details</a>
+                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/apple_certification.php">Details</a>
                                 </footer>
                             </article>
 
@@ -210,7 +210,7 @@
                                     </ul>
                                 </div>
                                 <footer>
-                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/course_detail.php">Details</a>
+                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/information_technology_specialist.php">Details</a>
                                 </footer>
                             </article>
 
@@ -244,7 +244,7 @@
                                     </ul>
                                 </div>
                                 <footer>
-                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/course_detail.php">Details</a>
+                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/microsoft_certified_fundamentals_exams.php">Details</a>
                                 </footer>
                             </article>
                             
@@ -278,7 +278,7 @@
                                     </ul>
                                 </div>
                                 <footer>
-                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/course_detail.php">Details</a>
+                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/microsoft_office_specialist.php">Details</a>
                                 </footer>
                             </article>
                             
@@ -312,7 +312,7 @@
                                     </ul>
                                 </div>
                                 <footer>
-                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/course_detail.php">Details</a>
+                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/microsoft_technology_associate.php">Details</a>
                                 </footer>
                             </article>
                             
@@ -346,7 +346,7 @@
                                     </ul>
                                 </div>
                                 <footer>
-                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/course_detail.php">Details</a>
+                                    <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/project_management_institute.php">Details</a>
                                 </footer>
                             </article>
 
