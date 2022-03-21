@@ -57,7 +57,7 @@
 
         <main>
             <section class="section__about-us py-5">
-                <div class="container border-bottom">
+                <div class="container">
                     <div class="row">
                         <div class="col-12">
                             <section>
@@ -148,9 +148,9 @@
                                                         <h2 class="secondary__header pt-3">
                                                             Founders and Director
                                                         </h2>
-                                                        <p>
+                                                        <!-- <p>
                                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione expedita explicabo, veritatis alias ducimus molestias temporibus voluptas reiciendis dignissimos.
-                                                        </p>
+                                                        </p> -->
                                                     </div>
                                                     
 
@@ -168,10 +168,10 @@
                                                                 </div>
                                                                 <div class="right">
                                                                     <h2>
-                                                                        Andy
+                                                                        Bohith Surthy
                                                                     </h2>
                                                                     <p>
-                                                                        Director
+                                                                        Founder
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -189,10 +189,10 @@
                                                                 </div>
                                                                 <div class="right">
                                                                     <h2>
-                                                                        Andy
+                                                                        Harsha Narayana
                                                                     </h2>
                                                                     <p>
-                                                                        Director
+                                                                        Founder
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -210,10 +210,10 @@
                                                                 </div>
                                                                 <div class="right">
                                                                     <h2>
-                                                                        Andy
+                                                                        Manas Yadav
                                                                     </h2>
                                                                     <p>
-                                                                        Director
+                                                                        Founder
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -224,7 +224,7 @@
                                         </section>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="section__about-right p-3 border"  data-aos="fade-up"
+                                        <div class="section__about-right p-3 border mb-2 bg-light"  data-aos="fade-up"
                                         data-aos-offset="100"
                                         data-aos-delay="50"
                                         data-aos-duration="1000"
@@ -232,20 +232,47 @@
                                             <section>
                                                 <article>
                                                     <header class="secondary__header-sub ">
-                                                        Mission
+                                                       Our Mission
                                                     </header>
                                                     <div class="section__about-right-body">
                                                         <p>
-                                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit ipsam neque error, enim cum doloremque aperiam iusto saepe dolorem natus?
+                                                        To Inspire, Ignite and Instill the future generation towards their intellectual, emotional, and ethical well-being.    
                                                         </p>
 
-                                                        <ul>
+                                                        <!-- <ul>
                                                             <li><span class="num__circle">1</span> Lorem ipsum dolor sit amet.</li>
                                                             <li><span class="num__circle">2</span> Lorem ipsum dolor sit amet consectetur.</li>
                                                             <li><span class="num__circle">3</span> Lorem, ipsum dolor.</li>
                                                             <li><span class="num__circle">4</span> Lorem ipsum dolor sit amet.</li>
                                                             <li><span class="num__circle">5</span> Lorem ipsum dolor sit amet consectetur.</li>
-                                                        </ul>
+                                                        </ul> -->
+                                                    </div>
+                                                </article>
+                                            </section>
+                                        </div>
+
+                                        <div class="section__about-right p-3 border bg-light"  data-aos="fade-up"
+                                        data-aos-offset="100"
+                                        data-aos-delay="50"
+                                        data-aos-duration="1000"
+                                        data-aos-easing="ease-in-out">
+                                            <section>
+                                                <article>
+                                                    <header class="secondary__header-sub ">
+                                                       Our Vision
+                                                    </header>
+                                                    <div class="section__about-right-body">
+                                                        <p>
+                                                            To aspire the young and bold minds to invest and thrive knowledge. Which engirdle Advancement, Ample Learning, Wishful Thinking, Cardinal Virtue and Solidarity.    
+                                                        </p>
+
+                                                        <!-- <ul>
+                                                            <li><span class="num__circle">1</span> Lorem ipsum dolor sit amet.</li>
+                                                            <li><span class="num__circle">2</span> Lorem ipsum dolor sit amet consectetur.</li>
+                                                            <li><span class="num__circle">3</span> Lorem, ipsum dolor.</li>
+                                                            <li><span class="num__circle">4</span> Lorem ipsum dolor sit amet.</li>
+                                                            <li><span class="num__circle">5</span> Lorem ipsum dolor sit amet consectetur.</li>
+                                                        </ul> -->
                                                     </div>
                                                 </article>
                                             </section>
@@ -259,7 +286,7 @@
             </section>
             <!-- end about us section -->
 
-            <section class="section__about-service"  data-aos="fade-up"
+            <!-- <section class="section__about-service"  data-aos="fade-up"
                 data-aos-offset="100"
                 data-aos-delay="50"
                 data-aos-duration="1000"
@@ -319,7 +346,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- end section about service -->
 
             <!-- <section class="section__about-gallery">
@@ -352,7 +379,7 @@
             </section> -->
             <!-- end section about gallery -->
 
-            <section class="section__testimonials py-5">
+            <section class="section__testimonials py-5 border-top">
                 <section class="container py-4">
                     <header class="section__header mb-2" data-aos="fade-up"
                                     data-aos-offset="100"
