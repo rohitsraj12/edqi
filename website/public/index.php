@@ -117,7 +117,7 @@
                                                     <h2 class="secondary__header">Smart Learning</h2> 
                                                 </header>
                                                 <p>
-                                                    
+                                                    Hands-on and technology-based learning in educational campuses and organizations across the globe.
                                                 </p>
                                             </div>
                                         </div>
@@ -136,39 +136,17 @@
 
                                             <div class="content__right">
                                                 <header>
-                                                    <h2 class="secondary__header">Learning Best Practice</h2> 
+                                                    <h2 class="secondary__header">Qualified Teachers</h2> 
                                                 </header>
                                                 <p>
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem est nulla dolorem nam, necessitatibus saepe. Omnis voluptas eos nihil dolorum quia commodi cum, eaque culpa a quam et est quod?
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="section__block" data-aos="fade-up"
-                                        data-aos-offset="100"
-                                        data-aos-delay="50"
-                                        data-aos-duration="1000"
-                                        data-aos-easing="ease-in-out">
-                                        <div class="d-flex">
-                                            <div class="icon__left">
-                                                <figure>
-                                                    <img src="<?php echo base_url();?>assets/img/icons/1.png" alt="">
-                                                </figure>
-                                            </div>
-
-                                            <div class="content__right">
-                                                <header>
-                                                    <h2 class="secondary__header">Online Resources</h2> 
-                                                </header>
-                                                <p>
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem est nulla dolorem nam, necessitatibus saepe. Omnis voluptas eos nihil dolorum quia commodi cum, eaque culpa a quam et est quod?
+                                                    Highly qualified teachers to give you the best of learning solutions
                                                 </p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                <div class="section__block" data-aos="fade-up"
+                                    <div class="section__block" data-aos="fade-up"
                                         data-aos-offset="100"
                                         data-aos-delay="50"
                                         data-aos-duration="1000"
@@ -182,15 +160,38 @@
 
                                             <div class="content__right">
                                                 <header>
-                                                    <h2 class="secondary__header">Study Plan Tutors</h2> 
+                                                    <h2 class="secondary__header">Advanced Practices</h2> 
                                                 </header>
                                                 <p>
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem est nulla dolorem nam, necessitatibus saepe. Omnis voluptas eos nihil dolorum quia commodi cum, eaque culpa a quam et est quod?
+                                                    Upgraded methods of teaching for better and easier learning.
                                                 </p>
                                             </div>
                                         </div>
                                     </div>
+                                    
                                     <div class="section__block" data-aos="fade-up"
+                                        data-aos-offset="100"
+                                        data-aos-delay="50"
+                                        data-aos-duration="1000"
+                                        data-aos-easing="ease-in-out">
+                                        <div class="d-flex">
+                                            <div class="icon__left">
+                                                <figure>
+                                                    <img src="<?php echo base_url();?>assets/img/icons/1.png" alt="">
+                                                </figure>
+                                            </div>
+
+                                            <div class="content__right">
+                                                <header>
+                                                    <h2 class="secondary__header">Certification</h2> 
+                                                </header>
+                                                <p>
+                                                    Globally certified by recognized institutions and industries.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- <div class="section__block" data-aos="fade-up"
                                         data-aos-offset="100"
                                         data-aos-delay="50"
                                         data-aos-duration="1000"
@@ -233,7 +234,7 @@
                                                 </p>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -270,11 +271,11 @@
                                         data-aos-easing="ease-in-out">
                                             <header>
                                                 <h3 class="secondary__header">
-                                                    1. Students Growth
+                                                    1. Students growth
                                                 </h3>
                                             </header>
                                             <p>
-                                            We aim at giving the best to all the students for their future growth.
+                                                We aim at giving the best to all the students for their future growth. The student growth process includes planning instruction and assessment, setting goals for students, and reflecting on student progress. Student growth is a substantial factor in evaluating educators. Student growth is the change in student achievement.
                                             </p>
                                         </article>
                                         
@@ -289,7 +290,7 @@
                                                 </h3>
                                             </header>
                                             <p>
-                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo sapiente dolorum dicta veritatis rem voluptate, sed dignissimos in molestiae fuga tempore nesciunt laborum doloremque, rerum modi enim ducimus maiores aliquam?
+                                            We ensure to give our students the best learning with updated methods and technology. Best practices are used to maintain quality. Innovative ideas, new technologies, strategic teaching that makes learning interesting. Practices that have achieved a high level of effectiveness and have been perfected over a decade or longer.
                                             </p>
                                         </article>
                                     </section>
@@ -312,11 +313,11 @@
                                         data-aos-easing="ease-in-out">
                                             <header>
                                                 <h3 class="secondary__header">
-                                                    3. Focus on targets
+                                                    3. Best learning solutions
                                                 </h3>
                                             </header>
                                             <p>
-                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo sapiente dolorum dicta veritatis rem voluptate, sed dignissimos in molestiae fuga tempore nesciunt laborum doloremque, rerum modi enim ducimus maiores aliquam?
+                                            We believe in lifelong learning and hence provide learning solutions across the spectrum from K-12 Education, Vocational Education, Higher Education, and Corporate Learning.    
                                             </p>
                                         </article>
                                         
