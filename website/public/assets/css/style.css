@@ -522,8 +522,15 @@ background-size: cover;
 
 /* home features
 =============================================== */
+.section__features .section__block {
+  min-height: 120px;
+}
 .section__features .icon__left{
-  width: 250px;
+  width: 120px;
+}
+
+.section__features .content__right {
+  width: 100%;
 }
 
 .content__right h2 {
