@@ -93,18 +93,10 @@
                                             Summery
                                         </header>
                                         <p>
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dolorem aspernatur, voluptatibus eum suscipit nisi doloribus unde in tempora debitis consectetur recusandae officia, quibusdam saepe nostrum ab quis quas aliquam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error eaque ab commodi neque soluta iure aliquid odio doloribus earum repellat.
+                                            An Adobe Certification program is a course where an individual who has shown capability with Adobe Systems programming items by passing at least one item explicit capability tests set by Adobe. 
                                         </p>
 
-                                        <p>
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque quam deserunt unde qui illum soluta dolorem numquam, ratione rerum eos id culpa iusto! Nemo quaerat a soluta, voluptatem, consequatur id, nulla at dolor qui quis excepturi quia temporibus iste ipsa.
-                                        </p>
-
-                                        <p>
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, dignissimos. Corporis natus provident accusantium ab dolor in voluptatibus quasi ea similique autem aliquam inventore beatae reprehenderit repellendus impedit voluptatum earum non, neque dolorum aperiam fugit.
-                                        </p>
-
-                                        <div class="row">
+                                        <!-- <div class="row">
                                             <div class="col-12 col-md-6">
                                                 <figure>
                                                     <img class="w-100" src="<?php echo base_url();?>assets/img/home/service_1.jpg" alt="">
@@ -122,7 +114,7 @@
                                                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic veritatis ut odio aliquid, unde quo expedita non?
                                                 </p>
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </article>
                                 </div>
                             </div> 
@@ -151,10 +143,19 @@
                                             Lessons
                                         </header>
                                         <p>
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque nemo quam iste ab necessitatibus animi, corrupti deleniti magnam. Odit doloribus quidem harum repudiandae dolorem explicabo eaque voluptates quas reiciendis eum.
+                                            <strong>Photoshop</strong> - Photoshop files have default file extension as .PSD, which stands for &quot;Photoshop Document&quot;. A PSD file stores an image with support for all features of Photoshop; these include layers with masks, transparency, text, alpha channels and spot colors, clipping paths, and duotone settings. This is in contrast to many other file formats (e.g., .JPG or .GIF) that restrict content to provide streamlined, predictable functionality. A PSD file has a maximum height and width of 30,000 pixels, and a length limit of two gigabytes.    
+                                        </p>
+                                        <p>
+                                            <strong>Illustrator</strong> - Adobe Illustrator is a vector graphics editor and design program developed and marketed by Adobe Inc. Originally designed for the Apple Macintosh, development of Adobe Illustrator began in 1985. Along with Creative Cloud (Adobe&#39;s shift to monthly or annual subscription service delivered over the Internet), Illustrator CC was released. The latest version, Illustrator 2022, was released on October 26, 2021, and is the 25th generation in the product line. Adobe Illustrator was reviewed as the best vector graphics editing program in 2018 by PC Magazine.
+                                        </p>
+                                        <p>
+                                           <strong>InDesign</strong> - Adobe InDesign is a desktop publishing and page layout designing software application produced by Adobe Inc. It can be used to create works such as posters, flyers, brochures, magazines, newspapers, presentations, books and ebooks. InDesign can also publish content suitable for tablet devices in conjunction with Adobe Digital Publishing Suite. Graphic designers and production artists are the principal users, creating and laying out periodical publications, posters, and print media.
+                                        </p>
+                                        <p>
+                                           <strong>After Effects</strong> - Adobe After Effects is a digital visual effects, motion graphics, and compositing application developed by Adobe Systems and used in the post-production process of film making, video games and television production. Among other things, After Effects can be used for keying, tracking, compositing, and animation. It also functions as a very basic non-linear editor, audio editor, and media transcoder. In 2019, the program won an Academy Award for scientific and technical achievement.
                                         </p>
                                         
-                                        <ul class="d-md-flex flex-wrap">
+                                        <!-- <ul class="d-md-flex flex-wrap">
                                             <li class="w-50">HTML</li>
                                             <li class="w-50">CSS</li>
                                             <li class="w-50">JavaScript</li>
@@ -163,7 +164,7 @@
                                             <li class="w-50">My SQL</li>
                                             <li class="w-50">SEO</li>
                                             <li class="w-50">Photoshop</li>
-                                        </ul>
+                                        </ul> -->
                                     </article>
                                 </div>
                             </div>
