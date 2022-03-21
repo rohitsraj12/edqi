@@ -88,20 +88,21 @@
                                                             Founded
                                                         </h2>
                                                         <p>
-                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione expedita explicabo, veritatis alias ducimus molestias temporibus voluptas reiciendis dignissimos.
+                                                            EDQI was created as a result of wanting to provide the required training to the students with the aim to meet their needs. In 2021, the founders had a discussion regarding the lack of communication between the Students and the Industry. The idea was now to bridge the gap between the students and the Industry.    
+
                                                         </p>
                                                         <p>
-                                                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae accusantium est commodi tenetur ratione nesciunt, expedita voluptates dignissimos. Sed quibusdam nihil beatae eligendi? Laborum aut mollitia magni, minima nobis tempora!
+                                                            It was founded by Bohith Surthy, Harsha Narayana and Manas Yadav in 2021. The founders incorporated the company in Bangalore, Karnataka with the name “Surthy”.
                                                         </p>
 
-                                                        <ul class="d-sm-flex flex-sm-wrap found__points mb-3">
+                                                        <!-- <ul class="d-sm-flex flex-sm-wrap found__points mb-3">
                                                             <li class="w-50">Lorem, ipsum dolor. </li>
                                                             <li class="w-50">Lorem, ipsum dolor.</li>
                                                             <li class="w-50">Lorem ipsum dolor sit amet.</li>
                                                             <li class="w-50">Lorem, ipsum dolor.</li>
                                                             <li class="w-50">Lorem ipsum dolor sit amet.</li>
                                                             <li class="w-50">Lorem ipsum dolor si.</li>
-                                                        </ul>
+                                                        </ul> -->
                                                     </div>
                                                     <div  data-aos="fade-up"
                                                         data-aos-offset="100"
@@ -109,11 +110,35 @@
                                                         data-aos-duration="1000"
                                                         data-aos-easing="ease-in-out">
                                                         <h2 class="secondary__header pt-3">
-                                                            EDQI name
+                                                            EDQI
                                                         </h2>
                                                         <p>
-                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione expedita explicabo, veritatis alias ducimus molestias temporibus voluptas reiciendis dignissimos.
+                                                            EDQI is an Indian Based company which focuses on providing full-fledged training to students to make them future ready. The idea of this industry is a question to most of the students as the knowledge gained is minimal and is limited to class room learning.
                                                         </p>
+                                                        <p>
+                                                        The idea of EDQI is to expand the vision of the students which opens the gateway to various aspects of how the industries work. By providing industrial training, EDQI wants to upscale student’s knowledge which in turn answers the questions with respect to the Corporate life.
+                                                        </p>
+                                                    </div>
+                                                    
+                                                    <div  data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
+                                                        <h2 class="secondary__header pt-3">
+                                                            What to Expect from EDQI?
+                                                        </h2>
+                                                        <p>
+                                                            The main aim of EDQI is to provide the below mentioned support to the students all over.
+                                                        </p>
+                                                       
+                                                        <ul class="d-sm-flex flex-sm-wrap found__points mb-3">
+                                                            <li class="w-50">Training with Global Certifications </li>
+                                                            <li class="w-50">Internships</li>
+                                                            <li class="w-50">Start-up Incubation</li>
+                                                            <li class="w-50">Projects</li>
+                                                            <li class="w-50">Placements</li>
+                                                        </ul>
                                                     </div>
                                                     <div data-aos="fade-up"
                                                         data-aos-offset="100"
