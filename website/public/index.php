@@ -90,7 +90,7 @@
                                 EDQI core feautures 
                             </h4>
                             <h6 class="text-center section__sub-header">
-                                Cum doctus civibus efficiantur in imperdiet deterruisset.
+                                Transforming education for a better future
                             </h6>
                         </header>
                     </div>
@@ -114,10 +114,10 @@
 
                                             <div class="content__right">
                                                 <header>
-                                                    <h2 class="secondary__header">Quality Certifications</h2> 
+                                                    <h2 class="secondary__header">Smart Learning</h2> 
                                                 </header>
                                                 <p>
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem est nulla dolorem nam, necessitatibus saepe. Omnis voluptas eos nihil dolorum quia commodi cum, eaque culpa a quam et est quod?
+                                                    
                                                 </p>
                                             </div>
                                         </div>
@@ -274,7 +274,7 @@
                                                 </h3>
                                             </header>
                                             <p>
-                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo sapiente dolorum dicta veritatis rem voluptate, sed dignissimos in molestiae fuga tempore nesciunt laborum doloremque, rerum modi enim ducimus maiores aliquam?
+                                            We aim at giving the best to all the students for their future growth.
                                             </p>
                                         </article>
                                         
