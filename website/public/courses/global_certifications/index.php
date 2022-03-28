@@ -107,9 +107,9 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <footer>
+                                <!-- <footer>
                                     <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/adobe_certification.php">Details</a>
-                                </footer>
+                                </footer> -->
                             </article>
 
                             <article class="article__course d-md-flex" data-aos="fade-up"
@@ -141,9 +141,9 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <footer>
+                                <!-- <footer>
                                     <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/apple_certification.php">Details</a>
-                                </footer>
+                                </footer> -->
                             </article>
 
                             <article class="article__course d-md-flex" data-aos="fade-up"
@@ -175,9 +175,9 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <footer>
+                                <!-- <footer>
                                     <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/autocad_certified_user.php">Details</a>
-                                </footer>
+                                </footer> -->
                             </article>
 
                             <article class="article__course d-md-flex" data-aos="fade-up"
@@ -209,9 +209,9 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <footer>
+                                <!-- <footer>
                                     <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/information_technology_specialist.php">Details</a>
-                                </footer>
+                                </footer> -->
                             </article>
 
                             <article class="article__course d-md-flex" data-aos="fade-up"
@@ -243,9 +243,9 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <footer>
+                                <!-- <footer>
                                     <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/microsoft_certified_fundamentals_exams.php">Details</a>
-                                </footer>
+                                </footer> -->
                             </article>
                             
                             <article class="article__course d-md-flex" data-aos="fade-up"
@@ -277,9 +277,9 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <footer>
+                                <!-- <footer>
                                     <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/microsoft_office_specialist.php">Details</a>
-                                </footer>
+                                </footer> -->
                             </article>
                             
                             <article class="article__course d-md-flex" data-aos="fade-up"
@@ -311,9 +311,9 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <footer>
+                                <!-- <footer>
                                     <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/microsoft_technology_associate.php">Details</a>
-                                </footer>
+                                </footer> -->
                             </article>
                             
                             <article class="article__course d-md-flex" data-aos="fade-up"
@@ -345,9 +345,9 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <footer>
+                                <!-- <footer>
                                     <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/global_certifications/project_management_institute.php">Details</a>
-                                </footer>
+                                </footer> -->
                             </article>
 
                         </section>
