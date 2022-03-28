@@ -101,9 +101,9 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <footer>
+                                <!-- <footer>
                                     <a class="btn btn__outline-info" href="<?php echo base_url();?>courses/course_detail.php">Details</a>
-                                </footer>
+                                </footer> -->
                             </article>
 
                             <article class="article__course d-md-flex" data-aos="fade-up"
