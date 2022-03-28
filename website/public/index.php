@@ -108,7 +108,7 @@
                                         <div class="d-flex">
                                             <div class="icon__left">
                                                 <figure>
-                                                    <img src="<?php echo base_url();?>assets/img/icons/1.png" alt="">
+                                                    <img width="70px" src="<?php echo base_url();?>assets/img/icons/smart_learning.svg" alt="">
                                                 </figure>
                                             </div>
 
@@ -130,7 +130,7 @@
                                         <div class="d-flex">
                                             <div class="icon__left">
                                                 <figure>
-                                                    <img src="<?php echo base_url();?>assets/img/icons/1.png" alt="">
+                                                    <img src="<?php echo base_url();?>assets/img/icons/teachers.svg" alt="">
                                                 </figure>
                                             </div>
 
@@ -154,7 +154,7 @@
                                         <div class="d-flex">
                                             <div class="icon__left">
                                                 <figure>
-                                                    <img src="<?php echo base_url();?>assets/img/icons/1.png" alt="">
+                                                    <img src="<?php echo base_url();?>assets/img/icons/advanced_practices.svg" alt="">
                                                 </figure>
                                             </div>
 
@@ -177,7 +177,7 @@
                                         <div class="d-flex">
                                             <div class="icon__left">
                                                 <figure>
-                                                    <img src="<?php echo base_url();?>assets/img/icons/1.png" alt="">
+                                                    <img src="<?php echo base_url();?>assets/img/icons/certificate.svg" alt="">
                                                 </figure>
                                             </div>
 
