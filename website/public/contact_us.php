@@ -50,6 +50,7 @@
         </div>
         
         <main>
+<<<<<<< Updated upstream
             <div class="container">
                 <header class="section__header text-center pt-5 pb-4" data-aos="fade-up"
                     data-aos-offset="100"
@@ -292,6 +293,45 @@
                                             </ul>
                                         </address>
                                     </header>
+=======
+            <section class="section__form py-5">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7">
+
+                        </div>
+                        <div class="col-md-5">
+                            <section class="contact__detail">
+                                <article>
+                                    <header class="">
+                                        Contact Details
+                                    </header>
+
+                                    <div class="contact__body">
+                                        <table>
+                                            <tr>
+                                                <td>phone</td>
+                                                <td>:</td>
+                                                <td><a href="tel:">999 999 9999</a></td>
+                                            </tr> 
+                                            <tr>
+                                                <td>email</td>
+                                                <td>:</td>
+                                                <td><a href="mailto:info@edqi.in">info@edqi.in</a></td>
+                                            </tr> 
+                                            <tr>
+                                                <td>address</td>
+                                                <td>:</td>
+                                                <td>
+                                                    <address>
+                                                        sadjasd asdasdasd sadasd a
+                                                    </address>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        
+                                    </div>
+>>>>>>> Stashed changes
                                 </article>
                             </section>
                         </div>
