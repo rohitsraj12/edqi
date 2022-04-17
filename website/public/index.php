@@ -30,7 +30,7 @@
 
         <div class="body__container">
             <main>
-                <section class="section__services mb-5">
+                <section class="section__services mb-5 d-none">
                     <div class="home__section-services" data-aos="fade-in"
                         data-aos-offset="100"
                         data-aos-delay="50"
@@ -79,7 +79,7 @@
                 </section>
                 <!-- end section services -->
 
-                <section class="section__features py-5">
+                <section class="section__features py-5 mt-5">
                     <div class="container">
                         <header class="section__header mb-5" data-aos="fade-up"
                         data-aos-offset="100"
@@ -261,8 +261,17 @@
                     <!-- end section header -->
                     <div class="section__body">
                         <div class="container">
-                            <div class="row align-items-stretch">
+                            <div class="row align-items-center">
                                 <div class="col-md-4">
+                                    <div class="section__block" data-aos="fade-right"
+                                        data-aos-offset="100"
+                                        data-aos-delay="50"
+                                        data-aos-duration="1000"
+                                        data-aos-easing="ease-in-out">
+                                        <img class="w-100" src="<?php echo base_url();?>assets/img/home/features.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
                                     <section class="section__focus-left">
                                         <article data-aos="fade-right"
                                         data-aos-offset="100"
@@ -279,7 +288,7 @@
                                             </p>
                                         </article>
                                         
-                                        <article data-aos="fade-right"
+                                        <article data-aos="fade-left"
                                         data-aos-offset="100"
                                         data-aos-delay="50"
                                         data-aos-duration="1000"
@@ -293,18 +302,23 @@
                                             We ensure to give our students the best learning with updated methods and technology. Best practices are used to maintain quality. Innovative ideas, new technologies, strategic teaching that makes learning interesting. Practices that have achieved a high level of effectiveness and have been perfected over a decade or longer.
                                             </p>
                                         </article>
-                                    </section>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="section__block" data-aos="fade-up"
+                                        <article data-aos="fade-right"
                                         data-aos-offset="100"
                                         data-aos-delay="50"
                                         data-aos-duration="1000"
                                         data-aos-easing="ease-in-out">
-                                        <img class="w-100" src="<?php echo base_url();?>assets/img/home/features.jpg" alt="">
-                                    </div>
+                                            <header>
+                                                <h3 class="secondary__header">
+                                                    3. Best learning solutions
+                                                </h3>
+                                            </header>
+                                            <p>
+                                            We believe in lifelong learning and hence provide learning solutions across the spectrum from K-12 Education, Vocational Education, Higher Education, and Corporate Learning.    
+                                            </p>
+                                        </article>
+                                    </section>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 d-none">
                                     <section class="section__focus-left">
                                         <article data-aos="fade-left"
                                         data-aos-offset="100"
