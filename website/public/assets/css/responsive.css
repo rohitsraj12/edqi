@@ -13,7 +13,7 @@
     .body__header {
         width: 100%;
         padding: 15px 0;
-        /* background-color: #00000046; */
+        background-color: rgba(255, 255, 255, 0.834);
         /* border-bottom: 1px solid #1a1a1a20; */
         /* filter: blur(1px);
         -webkit-filter: blur(1px); */
@@ -27,11 +27,12 @@
     }
 
     .fixed__header {
-        background-color: #111111;
+        background-color: #ffffff;
         position: fixed;
         top: 0;
         left: 0;
         z-index: 999;
+        box-shadow: 0 0 5px rgba(0,0,0,0.2);
     }
 
     .fixed__header header__brand img {
@@ -50,6 +51,7 @@
     }
 
     .main__nav {
+        /* margin-top: 30px; */
         display: flex;
         flex-direction: row;
     }
@@ -59,14 +61,14 @@
     }
 
     .nav__list + li {
-        margin-left: 40px;
+        margin-left: 30px;
     }
 
     .sub__nav {
         /* padding: 20px 0px; */
         display: none;
         position: absolute;
-        top: 40px;
+        top: 54px;
     }
 
     .sub-nav__list {
@@ -82,10 +84,15 @@
 
     .nav__link, .sub-nav__link {
         font-family: var(--font-primary);
-        font-size: 15px;
+        font-size: 14px;
         font-weight: 700;
-        color: #fff;
-    }
+        color: rgb(11, 35, 57);
+        transition: ease-in-out 300ms;
+        -webkit-transition: ease-in-out 300ms;
+        -moz-transition: ease-in-out 300ms;
+        -ms-transition: ease-in-out 300ms;
+        -o-transition: ease-in-out 300ms;
+}
     
 
     .nav__link i {
@@ -98,13 +105,14 @@
     }
 
     .nav__link:hover {
-        color: rgb(239, 239, 239);
+        color: rgb(47, 92, 120);
     }
 
     .sub-nav__link {
-        width: 200px;
-        background-color: #161616;
+        width: 300px;
+        background-color: #f8f8f8de;
         padding: 10px 20px;
+        color:rgb(17, 17, 17);
         display: inline-block;
         transition: ease-in-out 300ms;
         -webkit-transition: ease-in-out 300ms;
@@ -172,6 +180,27 @@
         width: 60%;
     }
 
+    /* =========================================
+    
+        #side nav
+    
+    =============================================*/
+    .side__nav li > a {
+        display: block;
+        margin-bottom: 2px;
+        padding: 10px 10px 6px 15px;
+        border-top: 2px solid rgb(255, 255, 255);
+        border-left: 3px solid rgba(4, 36, 57, 0.281);
+        border-bottom: 2px solid rgba(4, 36, 57, 0.281);
+        background-color: #f6f6f6;
+        font-size: 1rem;
+        color:rgb(10, 25, 33);
+    }
+
+    .side__nav li:first-child a {
+        border-top: 2px solid rgba(4, 36, 57, 0.281);
+
+    }
 }
 
 @media(max-width: 768px){
@@ -190,11 +219,11 @@
     }
     
     .hamburger svg{
-        fill: #fff;
+        fill: rgb(24, 24, 24);
     }
 
     .body__header {
-        background-color: rgb(17, 17, 17);
+        /* background-color: rgb(17, 17, 17); */
         padding-bottom: 10px;
         
     }
@@ -217,14 +246,16 @@
 
     .nav__link, .sub-nav__link {
         display: block;
-        background-color: rgb(42, 160, 214);
+        /* background-color: rgb(42, 160, 214); */
+        background-color: rgb(10, 25, 33);
         padding: 6px 10px;
         margin-bottom: 1px;
         color: #fff;
     }
     
     .sub-nav__link {
-        background-color: rgb(28, 129, 175);
+        /* background-color: rgb(28, 129, 175); */
+        background-color: rgb(6, 48, 67);
         padding-left: 20px;
     }
 
