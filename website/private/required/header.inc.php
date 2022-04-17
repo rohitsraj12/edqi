@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $page_title; ?> | EDQI.com</title>
     <meta name="description" content="">
-    <meta name="keywords" content="<?php echo $page_meta_key; ?>">
-    <meta name="author" content="<?php echo $page_meta_description; ?>">
+    <meta name="keywords" content="<?php if(empty($page_meta_key)){echo "edqi";} else {echo $page_meta_key;}; ?>">
+    <meta name="author" content="<?php if(empty($page_meta_description)){echo "edqi";} else { echo $page_meta_description;} ?>">
     <meta name="distribution" content="global" />
     <meta http-equiv="content-language" content="en-gb">
     <meta name="city" content="bangalore" />
@@ -43,10 +43,17 @@
 
     <div class="body__wrap">
         <div class="body__header absolute__header" data-aos="fade-down"
+<<<<<<< Updated upstream
             data-aos-offset="100"
             data-aos-delay="50"
             data-aos-duration="2000"
             data-aos-easing="ease-in-out">
+=======
+                        data-aos-offset="100"
+                        data-aos-delay="50"
+                        data-aos-duration="2000"
+                        data-aos-easing="ease-in-out">
+>>>>>>> Stashed changes
             <div class="hamburger">
                 <svg viewBox="0 0 100 80" width="40" height="40">
                     <rect width="80" height="5"></rect>
