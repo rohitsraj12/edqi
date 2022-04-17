@@ -1,6 +1,7 @@
 $(document).ready(function(){    
     const mediaQuery = window.innerWidth;
 
+<<<<<<< Updated upstream
     $(".nav__link").click(function(e){
         // e.preventDefault();
         // alert("hi");
@@ -8,13 +9,18 @@ $(document).ready(function(){
         // alert(12313);
     })
 
+=======
+>>>>>>> Stashed changes
     if(mediaQuery < 768){
         // small desice and tabs
         $(".hamburger").click(function(){
             $(".header__nav").slideToggle(400);
         })
+<<<<<<< Updated upstream
 
         $("")
+=======
+>>>>>>> Stashed changes
     } else {
         // large device
         $(window).scroll(function () {
