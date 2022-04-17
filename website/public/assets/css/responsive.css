@@ -12,12 +12,8 @@
 
     .body__header {
         width: 100%;
-<<<<<<< Updated upstream
         padding: 15px 0;
         background-color: rgba(255, 255, 255, 0.834);
-=======
-        /* background-color: #00000046; */
->>>>>>> Stashed changes
         /* border-bottom: 1px solid #1a1a1a20; */
         /* filter: blur(1px);
         -webkit-filter: blur(1px); */
@@ -25,7 +21,6 @@
     }
 
     .absolute__header {
-<<<<<<< Updated upstream
         position: absolute;
         top: 0;
         left: 0;
@@ -50,13 +45,13 @@
 
     .fixed__header {
         padding: 10px 0;
-        background-color: rgb(28, 29, 29);
+        /* background-color: rgb(28, 29, 29); */
         width: 100%;
         position: fixed;
         top: -50px;
         left: 0;
         z-index: 999;
-}
+    }
 
     .body__header header {
         display: flex;
@@ -93,6 +88,16 @@
         display: none;
         position: absolute;
         top: 54px;
+        /* z-index: 999; */
+    }
+
+    .fixed__header .sub__nav {
+        top: 34px;
+    }
+
+    .fixed__header .sub-nav__link {
+        background-color: rgb(242, 242, 242);
+        border: 1px solid #e8e8e8;
     }
 
     .sub-nav__list {
