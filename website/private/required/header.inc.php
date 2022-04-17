@@ -58,7 +58,7 @@
             <header class="wrap__container">
                 <div class="header__brand">
                     <a href="<?php echo base_url();?>">
-                        <img src="<?php echo base_url();?>assets/img/logo/logo-white.png" alt="">
+                        <img src="<?php echo base_url();?>assets/img/logo/logo-black-header.png" alt="">
                     </a>
                 </div>
                 <!-- end header brand -->
@@ -67,24 +67,69 @@
                     <ul class="main__nav">
                         <li class="nav__list"><a href="<?php echo base_url();?>" class="nav__link">Home</a></li>
                         <li class="nav__list">
-                            <a href="#" class="nav__link">
-                                Certification 
+                            <a class="nav__link">
+                                Academic connect  
                                 <i class="fa fa-angle-down"></i>
                             </a>    
                             <div class="sub__nav">
                                 <ul>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/global_certifications/" class="sub-nav__link">Global certificated</a></li>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/edqi_certifications/" class="sub-nav__link">Edqi Certificated</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>academic_connect/training_and_global_certifications.php" class="sub-nav__link">Training and global certifications</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>academic_connect/collaboration_with_institutions.php" class="sub-nav__link">Collaborations with Institutions</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>academic_connect/centre_of_excellence.php" class="sub-nav__link">Centre of Excellence</a></li>
                                 </ul>
                             </div>
                         </li>
-                        <!-- <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Courses</a></li> -->
+                        <li class="nav__list">
+                            <a class="nav__link">
+                               Industry Connect
+                                <i class="fa fa-angle-down"></i>
+                            </a>    
+                            <div class="sub__nav">
+                                <ul>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/edqi_certifications/" class="sub-nav__link">Industry Connect</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/edqi_certifications/" class="sub-nav__link">Startup and Incubation</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/edqi_certifications/" class="sub-nav__link">Social Connect</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/edqi_certifications/" class="sub-nav__link">Career Connect</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <!-- <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Community Connect</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Startup and Incubation</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Social Connect</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Career Connect</a></li> -->
+                        
+
                         <li class="nav__list"><a href="<?php echo base_url();?>services/" class="nav__link">Services</a></li>
                         <li class="nav__list"><a href="<?php echo base_url();?>about_us/" class="nav__link">About Us</a></li>
                         <li class="nav__list"><a href="<?php echo base_url();?>contact_us.php" class="nav__link">Contact Us</a></li>
                     </ul>
                     <!-- end main nav -->
                 </nav>
+                <!-- end header nav -->
+
+                <!-- <nav class="header__nav">
+                    <ul class="main__nav">
+                        <li class="nav__list"><a href="<?php echo base_url();?>" class="nav__link">Home</a></li>
+                        <li class="nav__list">
+                            <a href="#" class="nav__link">
+                                Learning and Development cell  
+                                <i class="fa fa-angle-down"></i>
+                            </a>    
+                            <div class="sub__nav">
+                                <ul>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/global_certifications/" class="sub-nav__link">Training and global certifications</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/edqi_certifications/" class="sub-nav__link">Collaborations with Institutions</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Industry Connect</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Community Connect</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Startup and Incubation</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Social Connect</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Career Connect</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>about_us/" class="nav__link">About Us</a></li>
+                    </ul>
+                </nav> -->
                 <!-- end header nav -->
             </header>
         </div>
