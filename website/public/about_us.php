@@ -88,7 +88,7 @@
                                                             Founded
                                                         </h2>
                                                         <p>
-                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione expedita explicabo, veritatis alias ducimus molestias temporibus voluptas reiciendis dignissimos.
+                                                        EDQI was created as a result of wanting to provide the required training to the students with the aim to meet their needs. In 2021, the founders had a discussion regarding the lack of communication between the Students and the Industry. The idea was now to bridge the gap between the students and the Industry.    
                                                         </p>
                                                         <p>
                                                             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae accusantium est commodi tenetur ratione nesciunt, expedita voluptates dignissimos. Sed quibusdam nihil beatae eligendi? Laborum aut mollitia magni, minima nobis tempora!
