@@ -1,7 +1,7 @@
         <div class="body__footer" data-aos="fade-up"
             data-aos-offset="100"
             data-aos-delay="50"
-            data-aos-duration="1000"
+            data-aos-duration="500"
             data-aos-easing="ease-in-out">
             <div class="container py-5">
                 <div class="row">
