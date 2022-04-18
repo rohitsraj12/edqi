@@ -57,7 +57,7 @@
                     <div class="row">
                         <div class="col-12">
                             <section>
-                                <header class="section__header text-center py-5"  data-aos="fade-up"
+                                <header class="section__header text-center pt-5"  data-aos="fade-up"
                                         data-aos-offset="100"
                                         data-aos-delay="50"
                                         data-aos-duration="1000"
@@ -72,12 +72,12 @@
 
                                 <div class="row pb-5">
                                     <div class="col-md-3">
-                                        <div class="section__about-right"  data-aos="fade-up"
+                                        <div class="section__about-right sticky-top pt-5"  data-aos="fade-up"
                                         data-aos-offset="100"
                                         data-aos-delay="50"
                                         data-aos-duration="1000"
                                         data-aos-easing="ease-in-out">
-                                            <section>
+                                            <section class="pt-3">
                                                 <article>
                                                         <ul class="side__nav">
                                                             <li><a href="#MoU’s">Details of MoU’s</a></li>
@@ -101,7 +101,7 @@
                                             </section>
                                         </div> -->
                                     </div>
-                                    <div class="col-md-8">
+                                    <div class="col-md-8 pt-5 mt-3">
                                         <section class="section__about-left" id="MoU’s">
                                             <article>
                                                 <div class="section__body">
