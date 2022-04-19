@@ -50,7 +50,6 @@
         </div>
         
         <main>
-<<<<<<< Updated upstream
             <div class="container">
                 <header class="section__header text-center pt-5 pb-4" data-aos="fade-up"
                     data-aos-offset="100"
@@ -293,8 +292,7 @@
                                             </ul>
                                         </address>
                                     </header>
-=======
-            <section class="section__form py-5">
+            <!-- <section class="section__form py-5">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">
@@ -331,13 +329,12 @@
                                         </table>
                                         
                                     </div>
->>>>>>> Stashed changes
                                 </article>
                             </section>
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
         </main>
     </div>
 
