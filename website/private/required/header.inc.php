@@ -87,10 +87,10 @@
                             </a>    
                             <div class="sub__nav">
                                 <ul>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/edqi_certifications/" class="sub-nav__link">Industry Connect</a></li>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/edqi_certifications/" class="sub-nav__link">Startup and Incubation</a></li>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/edqi_certifications/" class="sub-nav__link">Social Connect</a></li>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>courses/edqi_certifications/" class="sub-nav__link">Career Connect</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Litheora Geospatial Technologies consultancy services </a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Startup and Incubation</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Social Connect</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Career Connect</a></li>
                                 </ul>
                             </div>
                         </li>
