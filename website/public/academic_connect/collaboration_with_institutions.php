@@ -101,8 +101,8 @@
                                             </section>
                                         </div> -->
                                     </div>
-                                    <div class="col-md-8 pt-5 mt-3">
-                                        <section class="section__about-left" id="MoU’s">
+                                    <div class="col-md-8 mt-3">
+                                        <section class="section__about-left pt-5" id="MoU’s">
                                             <article>
                                                 <div class="section__body">
                                                     <div  data-aos="fade-up"
@@ -125,7 +125,7 @@
                                                 </div>
                                             </article>
                                         </section>
-                                        <section class="section__about-left" id="tie-ups">
+                                        <section class="section__about-left pt-5" id="tie-ups">
                                             <article>
                                                 <div class="section__body">
                                                     <div  data-aos="fade-up"
@@ -159,7 +159,7 @@
                                                 </div>
                                             </article>
                                         </section>
-                                        <section class="section__about-left" id="partners">
+                                        <section class="section__about-left pt-5" id="partners">
                                             <article>
                                                 <div class="section__body">
                                                     <div  data-aos="fade-up"
@@ -171,9 +171,11 @@
                                                             Details of Institutional partners
                                                         </h2>
                                                        
-                                                        <ul class="d-sm-flex flex-sm-wrap found__points mb-3">
-                                                            <li class="w-50">REVA University  </li>
-                                                            <li class="w-50">Dayananda Sagar Academy of Technology and Management.</li>
+                                                        <ul class="d-flex">
+                                                            <li>
+                                                                <img src="<?php echo base_url();?>assets/img/partners/reva.jpg" alt="REVA University">
+                                                            </li>
+                                                            <li><img src="<?php echo base_url();?>assets/img/partners/dayananda-sagar-academy-of-technology-and-management.jpg" alt="Dayananda Sagar Academy of Technology and Management"></li>
                                                         </ul>
                                                     </div>
                                                 </div>
