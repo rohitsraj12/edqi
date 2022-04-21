@@ -83,7 +83,7 @@
                                                             <li><a href="#MoU’s">Details of MoU’s</a></li>
                                                             <li><a href="#tie-ups">Details of tie-ups</a></li>
                                                             <li><a href="#partners">Institutional partners</a></li>
-                                                            <li><a href="#">Activities conducted in Institutions</a></li>
+                                                            <li><a href="#activities-conducted">Activities conducted in Institutions</a></li>
                                                         </ul>
                                                 </article>
                                             </section>
@@ -176,6 +176,45 @@
                                                                 <img src="<?php echo base_url();?>assets/img/partners/reva.jpg" alt="REVA University">
                                                             </li>
                                                             <li><img src="<?php echo base_url();?>assets/img/partners/dayananda-sagar-academy-of-technology-and-management.jpg" alt="Dayananda Sagar Academy of Technology and Management"></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </article>
+                                        </section>
+                                        <section class="section__about-left pt-5" id="activities-conducted">
+                                            <article>
+                                                <div class="section__body">
+                                                    <div  data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
+                                                        <h2 class="secondary__header pt-3">
+                                                        	Activities conducted in Institutions
+                                                        </h2>
+                                                        
+                                                        <ul class="pb-3">
+                                                            <li>
+                                                                1.	SDP Program  
+                                                            </li>
+                                                            <li>
+                                                                2.	Bootcamp
+                                                            </li>
+                                                            <li>
+                                                                3.	EWDP
+                                                            </li>
+                                                            <li>
+                                                                4.	Workshops
+                                                            </li>
+                                                            <li>
+                                                                5.	Internship
+                                                            </li>
+                                                            <li>
+                                                                6.	Product development 
+                                                            </li>
+                                                            <li>
+                                                                7.	Hacathon 
+                                                            </li>
                                                         </ul>
                                                     </div>
                                                 </div>
