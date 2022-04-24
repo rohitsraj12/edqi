@@ -10,9 +10,9 @@
                             <header class="footer__header">
                                 About Us
                             </header>
-                            <figure class="footer__brand">
+                            <!-- <figure class="footer__brand">
                                 <img src="<?php echo base_url();?>assets/img/logo/logo-white.png" alt="EDQI">
-                            </figure>
+                            </figure> -->
                             <div class="footer__content pb-0">
                                 <p>
                                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed eum tempore modi quaerat. Aliquid, commodi! Earum consequuntur est molestiae maxime vitae repudiandae esse beatae! Accusantium ullam debitis consectetur illo fugit?
