@@ -25,6 +25,8 @@
     <meta property="business:contact_data:region" content="Karnataka">
     <meta property="business:contact_data:postal_code" content="">
     <meta property="business:contact_data:country_name" content="India">
+    <!-- hide url from search engine -->
+    <meta name="robots" content="noindex">
     <!-- google -->
     <meta name="google-site-verification" content="dbrMYSZb_7Ew-Ti8lK9REe6kV3r1nEmLmpbiZL5eM5Q" />
     <link rel="shortcut icon" type="image/png" href="img/fevicon.png" />
