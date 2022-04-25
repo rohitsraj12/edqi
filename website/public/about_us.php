@@ -85,10 +85,10 @@
                                                         data-aos-duration="1000"
                                                         data-aos-easing="ease-in-out">
                                                         <h2 class="secondary__header">
-                                                            Founded
+                                                            EDQI Journey
                                                         </h2>
                                                         <p>
-                                                        EDQI was created as a result of wanting to provide the required training to the students with the aim to meet their needs. In 2021, the founders had a discussion regarding the lack of communication between the Students and the Industry. The idea was now to bridge the gap between the students and the Industry.    
+                                                            EDQI was created as a result of wanting to provide the required training to the students with the aim to meet their needs. In 2021, the founders had a discussion regarding the lack of communication between the Students and the Industry. The idea was now to bridge the gap between the students and the Industry.    
                                                         </p>
                                                         <p>
                                                             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae accusantium est commodi tenetur ratione nesciunt, expedita voluptates dignissimos. Sed quibusdam nihil beatae eligendi? Laborum aut mollitia magni, minima nobis tempora!
