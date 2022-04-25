@@ -227,6 +227,18 @@ hr.hr__line {
   color: #7b7b7b;
 }
 
+.section__block h2{
+  font-family: var(--font-header);
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.section__block .list__header {
+  font-family: var(--font-header);
+  font-size: 1rem;
+  font-weight: 600;
+} 
+
 .adise__contact header {
   padding: 0 10px;
   font-family: var(--font-primary);
@@ -454,7 +466,7 @@ background-size: cover;
 /* copy rights */
 .copy__right {
   text-align: center;
-  background-color: #121212;
+  background-color: #072f36;
 }
 
 .copy__right p {
