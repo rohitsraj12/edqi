@@ -252,11 +252,11 @@
                                         data-aos-duration="1000"
                                         data-aos-easing="ease-in-out">
                             <h4 class="primary-header text-center">
-                                EDQI Focused On 
+                                EDQI focuses On 
                             </h4>
-                            <h6 class="text-center section__sub-header">
+                            <!-- <h6 class="text-center section__sub-header">
                                 Cum doctus civibus efficiantur in imperdiet deterruisset.
-                            </h6>
+                            </h6> -->
                         </header>
                     </section>
                     <!-- end section header -->
@@ -269,7 +269,7 @@
                                         data-aos-delay="50"
                                         data-aos-duration="1000"
                                         data-aos-easing="ease-in-out">
-                                        <img class="w-100" src="<?php echo base_url();?>assets/img/home/features.jpg" alt="">
+                                        <img class="w-100" src="<?php echo base_url();?>assets/img/home/features.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -358,7 +358,7 @@
                 </section>
                 <!-- end section focus -->
 
-                <section class="section__hightlights mt-5" data-aos="fade-in"
+                <!-- <section class="section__hightlights mt-5" data-aos="fade-in"
                     data-aos-offset="100"
                     data-aos-delay="50"
                     data-aos-duration="1000"
@@ -445,10 +445,10 @@
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> -->
                 <!-- end section hightlights -->
 
-                <section class="section__testimonials py-5">
+                <!-- <section class="section__testimonials py-5">
                     <section class="container py-4">
                         <header class="section__header mb-2" data-aos="fade-up"
                                         data-aos-offset="100"
@@ -458,11 +458,10 @@
                             <h4 class="primary-header text-center">
                                 Testimonials 
                             </h4>
-                            <!-- <h6 class="text-center section__sub-header">
+                            <h6 class="text-center section__sub-header">
                                 Cum doctus civibus efficiantur in imperdiet deterruisset.
-                            </h6> -->
+                            </h6>
                         </header>
-                        <!-- end section header -->
                     </section>
                     <section class="section__body pb-5" data-aos="fade-up"
                         data-aos-offset="100"
@@ -557,10 +556,10 @@
                             </div>
                         </div>
                     </section>
-                </section>
+                </section> -->
                 <!-- end section testimonials -->
 
-                <section class="section__partners py-5">
+                <!-- <section class="section__partners py-5">
                     <section class="container">
                         <header class="section__header mb-4" data-aos="fade-up"
                             data-aos-offset="100"
@@ -571,7 +570,6 @@
                                 Partners 
                             </h4>
                         </header>
-                        <!-- end section header -->
                     </section>
                     <div class="section__body">
                         <div class="container">
@@ -621,7 +619,7 @@
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> -->
                 <!-- end section partners -->
             </main>
         </div>
