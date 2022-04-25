@@ -69,9 +69,9 @@
                                     <h2 class="primary-header">
                                         Some words about EDQI
                                     </h2>
-                                    <p class="section__sub-header">
+                                    <!-- <p class="section__sub-header">
                                         Cum doctus civibus efficiantur in imperdiet deterruisset.
-                                    </p>
+                                    </p> -->
                                 </header>
 
                                 <div class="row pb-5">
@@ -85,14 +85,13 @@
                                                         data-aos-duration="1000"
                                                         data-aos-easing="ease-in-out">
                                                         <h2 class="secondary__header">
-                                                            Founded
+                                                            EDQI Journey
                                                         </h2>
                                                         <p>
                                                             EDQI was created as a result of wanting to provide the required training to the students with the aim to meet their needs. In 2021, the founders had a discussion regarding the lack of communication between the Students and the Industry. The idea was now to bridge the gap between the students and the Industry.    
-
                                                         </p>
                                                         <p>
-                                                            It was founded by Bohith Surthy, Harsha Narayana and Manas Yadav in 2021. The founders incorporated the company in Bangalore, Karnataka with the name “Surthy”.
+                                                            It was founded by Bohith Surthy, Harsha Narayana and Manas Yadav in 2021. The founders incorporated the company in Bangalore, Karnataka with the name “Surthy Edutech Private Limited” with the brand name “Edqi”.
                                                         </p>
 
                                                         <!-- <ul class="d-sm-flex flex-sm-wrap found__points mb-3">
@@ -113,10 +112,13 @@
                                                             EDQI
                                                         </h2>
                                                         <p>
-                                                            EDQI is an Indian Based company which focuses on providing full-fledged training to students to make them future ready. The idea of this industry is a question to most of the students as the knowledge gained is minimal and is limited to class room learning.
+                                                            EDQI is an Indian-based company that focuses on making education a vital force to groom the future leaders of our upcoming generation.
                                                         </p>
                                                         <p>
-                                                        The idea of EDQI is to expand the vision of the students which opens the gateway to various aspects of how the industries work. By providing industrial training, EDQI wants to upscale student’s knowledge which in turn answers the questions with respect to the Corporate life.
+                                                            We as a company provide full-fledged skill-based training to the students and make them future - ready. We give industrial exposure to students and make them competent to face the competitive world outside. We distinguish ourselves by providing innovative and engaging training that is pragmatic and effective. EDQI aims to extemporize the skillset of the students and provides them with a gateway to the industry.
+                                                        </p>
+                                                        <p>
+                                                        We desire to inspire the future generation to upscale their practical knowledge and become the better versions of themselves. We as a company want to transform the limited classroom knowledge of the students into an Industrial competent skillset.
                                                         </p>
                                                     </div>
                                                     
@@ -140,7 +142,7 @@
                                                             <li class="w-50">Placements</li>
                                                         </ul>
                                                     </div>
-                                                    <div data-aos="fade-up"
+                                                    <!--<div data-aos="fade-up"
                                                         data-aos-offset="100"
                                                         data-aos-delay="50"
                                                         data-aos-duration="1000"
@@ -148,77 +150,13 @@
                                                         <h2 class="secondary__header pt-3">
                                                             Founders and Director
                                                         </h2>
-                                                        <!-- <p>
+                                                         <p>
                                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione expedita explicabo, veritatis alias ducimus molestias temporibus voluptas reiciendis dignissimos.
-                                                        </p> -->
-                                                    </div>
+                                                        </p> 
+                                                    </div>-->
                                                     
 
-                                                    <div class="row">
-                                                        <div class="col-sm-4">
-                                                            <div class="faculty__wrap" data-aos="fade-up"
-                                                        data-aos-offset="100"
-                                                        data-aos-delay="50"
-                                                        data-aos-duration="1000"
-                                                        data-aos-easing="ease-in-out">
-                                                                <div class="left">
-                                                                    <figure>
-                                                                        <img src="<?php echo base_url();?>assets/img/faculty/01.jpg" alt="">
-                                                                    </figure>
-                                                                </div>
-                                                                <div class="right">
-                                                                    <h2>
-                                                                        Bohith Surthy
-                                                                    </h2>
-                                                                    <p>
-                                                                        Founder
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-sm-4">
-                                                            <div class="faculty__wrap"  data-aos="fade-up"
-                                                        data-aos-offset="100"
-                                                        data-aos-delay="100"
-                                                        data-aos-duration="1000"
-                                                        data-aos-easing="ease-in-out">
-                                                                <div class="left">
-                                                                    <figure>
-                                                                        <img src="<?php echo base_url();?>assets/img/faculty/01.jpg" alt="">
-                                                                    </figure>
-                                                                </div>
-                                                                <div class="right">
-                                                                    <h2>
-                                                                        Harsha Narayana
-                                                                    </h2>
-                                                                    <p>
-                                                                        Founder
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-sm-4">
-                                                            <div class="faculty__wrap"  data-aos="fade-up"
-                                                        data-aos-offset="100"
-                                                        data-aos-delay="150"
-                                                        data-aos-duration="1000"
-                                                        data-aos-easing="ease-in-out">
-                                                                <div class="left">
-                                                                    <figure>
-                                                                        <img src="<?php echo base_url();?>assets/img/faculty/01.jpg" alt="">
-                                                                    </figure>
-                                                                </div>
-                                                                <div class="right">
-                                                                    <h2>
-                                                                        Manas Yadav
-                                                                    </h2>
-                                                                    <p>
-                                                                        Founder
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                    
                                                 </div>
                                             </article>
                                         </section>
@@ -379,6 +317,7 @@
             </section> -->
             <!-- end section about gallery -->
 
+            
             <section class="section__testimonials py-5 border-top">
                 <section class="container py-4">
                     <header class="section__header mb-2" data-aos="fade-up"
@@ -387,7 +326,7 @@
                                     data-aos-duration="1000"
                                     data-aos-easing="ease-in-out">
                         <h4 class="primary-header text-center">
-                            Testimonials 
+                            Team Details 
                         </h4>
                         <!-- <h6 class="text-center section__sub-header">
                             Cum doctus civibus efficiantur in imperdiet deterruisset.
@@ -400,92 +339,89 @@
                     data-aos-delay="50"
                     data-aos-duration="1000"
                     data-aos-easing="ease-in-out">
-                    <div class="container">
-                        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-                            <div class="carousel-indicators">
-                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                            </div>
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                    <blockquote>
-                                        <article>
-                                            <div class="testimonial__msg pb-4 text-center">
-                                                <p>
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, dolorem omnis nostrum architecto repellendus distinctio, voluptas sint vero ratione rerum iste quaerat non delectus corrupti inventore consequatur in, nesciunt dignissimos?
-                                                </p>
-                                            </div>
-                                            <footer class="text-center">
-                                                <cite>
-                                                    <h6 class="m-0 pb-2">
-                                                        name
-                                                    </h6>
-                                                    <p>
-                                                        Web Development student
-                                                    </p>
-                                                </cite>
-                                            </footer>
-
-                                        </article>
-
-                                    </blockquote>
-                                </div>
-                                <div class="carousel-item">
-                                    <blockquote>
-                                        <article>
-                                            <div class="testimonial__msg pb-4 text-center">
-                                                <p>
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, dolorem omnis nostrum architecto repellendus distinctio, voluptas sint vero ratione rerum iste quaerat non delectus corrupti inventore consequatur in, nesciunt dignissimos?
-                                                </p>
-                                            </div>
-                                            <footer class="text-center">
-                                                <cite>
-                                                    <h6 class="m-0 pb-2">
-                                                        name
-                                                    </h6>
-                                                    <p>
-                                                        Web Development student
-                                                    </p>
-                                                </cite>
-                                            </footer>
-                                        </article>
-                                    </blockquote>
-                                </div>
-                                <div class="carousel-item">
-                                    
-                                    <blockquote>
-                                        <article>
-                                            <div class="testimonial__msg pb-4 text-center">
-                                                <p>
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, dolorem omnis nostrum architecto repellendus distinctio, voluptas sint vero ratione rerum iste quaerat non delectus corrupti inventore consequatur in, nesciunt dignissimos?
-                                                </p>
-                                            </div>
-                                            <footer class="text-center">
-                                                <cite>
-                                                    <h6 class="m-0 pb-2">
-                                                        name
-                                                    </h6>
-                                                    <p>
-                                                        Web Development student
-                                                    </p>
-                                                </cite>
-                                            </footer>
-
-                                        </article>
-
-                                    </blockquote>
-                                </div>
-                            </div>
-                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Previous</span>
-                            </button>
-                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Next</span>
-                            </button>
-                        </div>
+                    <div class="container w-75">
+                        <div class="row">
+                                                        <div class="col-sm-12">
+                                                            <div class="faculty__wrap" data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
+                                                            <div class="">
+                                                                <article class="row">
+                                                                    <div class="col-sm-2 pb-3">
+                                                                        <figure>
+                                                                            <img class="w-100" src="<?php echo base_url();?>assets/img/faculty/bohit.jpg" alt="">
+                                                                        </figure>
+                                                                    </div>
+                                                                    <div class="col-sm-10">
+                                                                        <h2 class="pb-0">
+                                                                            BOHITH SURTHY K
+                                                                        </h2>
+                                                                        <p class="mb-3">
+                                                                            CEO
+                                                                        </p>
+                                                                        <p>
+                                                                            A passionate GIS engineer and a dynamic entrepreneur who brings a relentless drive for innovation and a passion for personalized services for startups and social commitments is ready to race, DNA of our company.
+                                                                        </p>
+                                                                    </div>
+                                                                </article>
+                                                            </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-6">
+                                                            <div class="faculty__wrap"  data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="100"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
+                                                            <div class="row">
+                                                                <div class="col-sm-4">
+                                                                    <figure>
+                                                                        <img class="w-100" src="<?php echo base_url();?>assets/img/faculty/harsha.jpg" alt="">
+                                                                    </figure>
+                                                                </div>
+                                                                <div class="col-sm-8">
+                                                                    <h2>
+                                                                        Sri Harsha Naryana
+                                                                    </h2>
+                                                                    <p class="mb-3">
+                                                                        COO
+                                                                    </p>
+                                                                    <p>
+                                                                        A Vibrant entrepreneur and an entrepreneur with expertise in the domain of IT and EDtech is in the realm of our core operations.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        </div>
+                                                        <div class="col-sm-6">
+                                                            <div class="faculty__wrap"  data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="150"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
+                                                        <div class="row">
+                                                                <div class="col-sm-4">
+                                                                    <figure>
+                                                                        <img class="w-100" src="<?php echo base_url();?>assets/img/faculty/manas.jpg" alt="">
+                                                                    </figure>
+                                                                </div>
+                                                                <div class="col-sm-8">
+                                                                    <h2>
+                                                                        Manas N Yadav
+                                                                    </h2>
+                                                                    <p class="mb-3">
+                                                                        CTO
+                                                                    </p>
+                                                                    <p>
+                                                                    Our Group Technical Officer since 2019. He is an experienced technologist with a track record of designing, managing, and implementing innovative technical solutions.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                     </div>
                 </section>
             </section>
