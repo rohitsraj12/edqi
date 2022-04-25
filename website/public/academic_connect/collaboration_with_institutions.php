@@ -57,7 +57,7 @@
                     <div class="row">
                         <div class="col-12">
                             <section>
-                                <header class="section__header text-center pt-5"  data-aos="fade-up"
+                                <header class="section__header text-center pb-5"  data-aos="fade-up"
                                         data-aos-offset="100"
                                         data-aos-delay="50"
                                         data-aos-duration="1000"
@@ -65,14 +65,14 @@
                                     <h2 class="primary-header">
                                         Collaborations with Institutions 
                                     </h2>
-                                    <p class="section__sub-header">
+                                    <!-- <p class="section__sub-header">
                                         Cum doctus civibus efficiantur in imperdiet deterruisset.
-                                    </p>
+                                    </p> -->
                                 </header>
 
                                 <div class="row pb-5">
                                     <div class="col-md-3">
-                                        <div class="section__about-right sticky-top pt-5"  data-aos="fade-up"
+                                        <!-- <div class="section__about-right sticky-top pt-5"  data-aos="fade-up"
                                         data-aos-offset="100"
                                         data-aos-delay="50"
                                         data-aos-duration="1000"
@@ -87,7 +87,7 @@
                                                         </ul>
                                                 </article>
                                             </section>
-                                        </div>
+                                        </div> -->
 
                                         <!-- <div class="section__about-right p-3 border bg-light"  data-aos="fade-up"
                                         data-aos-offset="100"
@@ -101,8 +101,8 @@
                                             </section>
                                         </div> -->
                                     </div>
-                                    <div class="col-md-8 mt-3">
-                                        <section class="section__about-left pt-5" id="MoU’s">
+                                    <div class="col-md-12">
+                                        <section class="section__about-left" id="MoU’s">
                                             <article>
                                                 <div class="section__body">
                                                     <div  data-aos="fade-up"
@@ -110,78 +110,86 @@
                                                         data-aos-delay="50"
                                                         data-aos-duration="1000"
                                                         data-aos-easing="ease-in-out">
-                                                        <h2 class="secondary__header">
+                                                        <h2 class="secondary__header text-center">
                                                             MOU with Dayananda Sagar Academy of Technology and Management.
                                                         </h2>
-
-                                                        <ul class="">
-                                                            <li>1.	Faculty Exchange  </li>
-                                                            <li>2.	Research Support</li>
-                                                            <li>3.	Training Assistant</li>
-                                                            <li>4.	Product Support</li>
-                                                            <li>5.	Incubation support</li>
-                                                        </ul>
+                                                        <div class="row">
+                                                            <div class="col-sm-12">
+                                                                <div class="section__block pb-3">
+                                                                    <h2>
+                                                                        Details of MoU’s:
+                                                                    </h2>
+                                                                    <p>
+                                                                        A Memorandum of Understanding with Dayananda Sagar Academy of Technology and Management was signed for the following:
+                                                                    </p>
+                                                                    <ul class="found__points">
+                                                                        <li>
+                                                                        Faculty Exchange
+                                                                        </li>
+                                                                        <li>Research Support</li>
+                                                                        <li>Training Assistant</li>
+                                                                        <li>Product Support</li>
+                                                                        <li>Incubation support</li>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="section__block pb-3">
+                                                                    <h2>
+                                                                        Details of tie-ups:
+                                                                    </h2>
+                                                                    <p>
+                                                                    Partnership with REVA University UIIC (University Industry Interaction center) for School of Computer Science and application and School of Civil Engineering. 
+                                                                    </p>
+                                                                    <span class="list__header">For providing training and Global certification </span>
+                                                                    <ul class="found__points py-2">
+                                                                        <li>
+                                                                            Upon mastery of the skills and knowledge required by those programs, the student is evaluated and a certificate is awarded to acknowledge his/her mastery.
+                                                                        </li>
+                                                                    </ul>
+                                                                    <span class="list__header">Bootcamp in IOT</span>
+                                                                    <ul class="found__points py-2">
+                                                                        <li>
+                                                                        It is a great tool for anyone interested in learning about how things work and transitioning from manufacturing to technology, robotics or engineering, as well as artists and tinkerers.
+                                                                        </li>
+                                                                    </ul>
+                                                                    <span class="list__header">Internship Programs</span>
+                                                                    <ul class="found__points py-2">
+                                                                        <li>
+                                                                        During an internship, a student has an opportunity to explore their career options and develop new skills.
+                                                                        </li>
+                                                                    </ul>
+                                                                    <p>
+                                                                        Certified as Certiport Authorized Testing Center by Certiport.
+                                                                    </p>
+                                                                </div>
+                                                                <div class="section__block pb-3">
+                                                                    <h2>
+                                                                        Activities conducted in Institutions:
+                                                                    </h2>
+                                                                    <span class="list__header">SDP Program:</span>
+                                                                    <ul class="found__points py-2">
+                                                                        <li>
+                                                                        The SDP provides the acquirer insight and a tool for monitoring the processes to be followed for software development.
+                                                                        </li>
+                                                                        <li>
+                                                                        It also details methods to be used and the approach to be followed for each activity, organization, and resource.
+                                                                        </li>
+                                                                    </ul>
+                                                                    <span class="list__header">Bootcamp:</span>
+                                                                    <ul class="found__points py-2">
+                                                                        <li>
+                                                                        The purpose of bootcamps is to provide students with training which is designed to prepare them for the practical reality of programming.
+                                                                        </li>
+                                                                       
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </article>
                                         </section>
-                                        <section class="section__about-left pt-5" id="tie-ups">
-                                            <article>
-                                                <div class="section__body">
-                                                    <div  data-aos="fade-up"
-                                                        data-aos-offset="100"
-                                                        data-aos-delay="50"
-                                                        data-aos-duration="1000"
-                                                        data-aos-easing="ease-in-out">
-                                                        <h2 class="secondary__header pt-3">
-                                                            Partnership with REVA University UIIC 
-                                                        </h2>
-                                                        <p>
-                                                            Partnership with REVA University UIIC (University Industry Interaction center) for School of Computer Science and application and School of Civil Engineering. 
-                                                        </p>
-                                                        <ul class="pb-3">
-                                                            <li>
-                                                                1.	For providing training and Global certification 
-                                                            </li>
-                                                            <li>
-                                                                2.	Bootcamp in IOT
-                                                            </li>
-                                                            <li>
-                                                                3.	Internship Programs
-                                                            </li>
-                                                        </ul>
-                                                        <p>
-                                                            Registered with Certiport as Certiport Authorized Testing Center
-                                                        </p>
-                                                    </div>
-                                                    
-                                                  
-                                                </div>
-                                            </article>
-                                        </section>
-                                        <section class="section__about-left pt-5" id="partners">
-                                            <article>
-                                                <div class="section__body">
-                                                    <div  data-aos="fade-up"
-                                                        data-aos-offset="100"
-                                                        data-aos-delay="50"
-                                                        data-aos-duration="1000"
-                                                        data-aos-easing="ease-in-out">
-                                                        <h2 class="secondary__header pt-3">
-                                                            Details of Institutional partners
-                                                        </h2>
-                                                       
-                                                        <ul class="d-flex">
-                                                            <li>
-                                                                <img src="<?php echo base_url();?>assets/img/partners/reva.jpg" alt="REVA University">
-                                                            </li>
-                                                            <li><img src="<?php echo base_url();?>assets/img/partners/dayananda-sagar-academy-of-technology-and-management.jpg" alt="Dayananda Sagar Academy of Technology and Management"></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </article>
-                                        </section>
-                                        <section class="section__about-left pt-5" id="activities-conducted">
+                                        
+                                        <!-- <section class="section__about-left pt-5" id="activities-conducted">
                                             <article>
                                                 <div class="section__body">
                                                     <div  data-aos="fade-up"
@@ -215,6 +223,28 @@
                                                             <li>
                                                                 7.	Hacathon 
                                                             </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </article>
+                                        </section> -->
+                                        <section class="section__about-left pt-5" id="partners">
+                                            <article>
+                                                <div class="section__body">
+                                                    <div  data-aos="fade-up"
+                                                        data-aos-offset="100"
+                                                        data-aos-delay="50"
+                                                        data-aos-duration="1000"
+                                                        data-aos-easing="ease-in-out">
+                                                        <h2 class="secondary__header pt-3">
+                                                            Details of Institutional partners
+                                                        </h2>
+                                                       
+                                                        <ul class="d-flex">
+                                                            <li>
+                                                                <img src="<?php echo base_url();?>assets/img/partners/reva.jpg" alt="REVA University">
+                                                            </li>
+                                                            <li><img src="<?php echo base_url();?>assets/img/partners/dayananda-sagar-academy-of-technology-and-management.jpg" alt="Dayananda Sagar Academy of Technology and Management"></li>
                                                         </ul>
                                                     </div>
                                                 </div>
