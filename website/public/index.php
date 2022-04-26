@@ -358,6 +358,45 @@
                 </section>
                 <!-- end section focus -->
 
+                <section class="section__academic-connect py-5">
+                    <div class="container">
+                        <header class="section__header mb-5" data-aos="fade-up"
+                        data-aos-offset="100"
+                        data-aos-delay="50"
+                        data-aos-duration="1000"
+                        data-aos-easing="ease-in-out">
+                            <h4 class="primary-header text-center">
+                                Academic Connect
+                            </h4>
+                            <!-- <h6 class="text-center section__sub-header">
+                                Cum doctus civibus efficiantur in imperdiet deterruisset.
+                            </h6> -->
+                        </header>
+
+                        <div class="section__body">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <section>
+                                        <article class="article__academic-connect">
+                                            <figure>
+                                                <img class="w-100" src="<?php echo base_url();?>assets/img/home/service_1.jpg" alt="">
+                                            </figure>
+                                            <header>
+                                                <h1>
+                                                    Training And GLobal Certification
+                                                </h1>
+                                                <a href="<?php echo base_url();?>academic_connect/training_and_global_certification.php">Read More</a>
+                                            </header>
+                                        </article>
+                                    </section>
+                                </div>
+                                <div class="col-md-4"></div>
+                                <div class="col-md-4"></div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
                 <!-- <section class="section__hightlights mt-5" data-aos="fade-in"
                     data-aos-offset="100"
                     data-aos-delay="50"
