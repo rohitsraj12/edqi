@@ -59,9 +59,9 @@
                     <h2 class="primary-header">
                         Contact Us
                     </h2>
-                    <p class="section__sub-header">
+                    <!-- <p class="section__sub-header">
                         Cum doctus civibus efficiantur in imperdiet deterruisset.
-                    </p>
+                    </p> -->
                 </header>
             </div>
 
@@ -239,8 +239,12 @@
                                                 Call Us                    
                                             </li>
                                             <li>
-                                                <a href="" class="contact-us__info-two-text tel">
-                                                    999 999 9999
+                                                <a href="tel:+919035623724" class="contact-us__info-two-text tel">
+                                                    +91 903 562 3724
+                                                </a>
+                                                <br>
+                                                <a href="tel:08079695822" class="contact-us__info-two-text tel-2">
+                                                    08079695822
                                                 </a>
                                             </li>
                                         </ul>
@@ -288,7 +292,7 @@
                                         <address>
                                             <ul>
                                                 <li  class="contact-us__info-two-text-header">Visit Our Office</li>
-                                                <li  class="contact-us__info-two-text">Lorem, ipsum, Bangalore 998998</li>
+                                                <li  class="contact-us__info-two-text">No.570 sri sai towers 2 nd floor, HMT layout, 2 nd block, Main road, Vidyaranyapura, Bangalore 560097.</li>
                                             </ul>
                                         </address>
                                     </header>

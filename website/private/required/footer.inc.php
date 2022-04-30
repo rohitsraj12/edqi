@@ -10,12 +10,12 @@
                             <header class="footer__header">
                                 About Us
                             </header>
-                            <figure class="footer__brand">
-                                <img src="<?php echo base_url();?>assets/img/logo/logo-white.png" alt="EDQI">
-                            </figure>
+                                <figure class="footer__brand">
+                                    <img src="<?php echo base_url();?>assets/img/logo/logo-black-header.png" alt="EDQI">
+                                </figure>
                             <div class="footer__content pb-0">
                                 <p>
-                                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed eum tempore modi quaerat. Aliquid, commodi! Earum consequuntur est molestiae maxime vitae repudiandae esse beatae! Accusantium ullam debitis consectetur illo fugit?
+                                    EDQI focuses on making education a vital force to groom the future leaders of our upcoming generation. We as a company provide full-fledged skill-based training to the students and make them future.
                                 </p>
                             </div>
                             <div class="footer__social-media">
@@ -60,26 +60,26 @@
                                                         About
                                                     </a>
                                                 </li>
-                                                <li class="footer__list">
+                                                <!-- <li class="footer__list">
                                                     <a href="<?php echo base_url();?>services/" class="footer__link">
                                                         Services
                                                     </a>
-                                                </li>
+                                                </li> -->
                                                 <!-- <li class="footer__list">
                                                     <a href="<?php echo base_url();?>courses/" class="footer__link">
                                                         Courses
                                                     </a>
                                                 </li> -->
-                                                <li class="footer__list">
+                                                <!-- <li class="footer__list">
                                                     <a href="<?php echo base_url();?>careers/" class="footer__link">
                                                         Careers
                                                     </a>
-                                                </li>
-                                                <li class="footer__list">
+                                                </li> -->
+                                                <!-- <li class="footer__list">
                                                     <a href="<?php echo base_url();?>about_us/faq.php" class="footer__link">
                                                         FAQ
                                                     </a>
-                                                </li>
+                                                </li> -->
                                                 <li class="footer__list">
                                                     <a href="<?php echo base_url();?>contact_us.php" class="footer__link">
                                                         Contact Us
@@ -94,25 +94,25 @@
                                         <div class="footer__links">
                                             <ul>
                                                 <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>courses/global_certifications/" class="footer__link">
-                                                        Global Certifications
+                                                    <a href="<?php echo base_url();?>academic_connect/training_and_global_certifications.php" class="footer__link">
+                                                        Training and global certifications
                                                     </a>
                                                 </li>
                                                 <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>courses/edqi_certifications/" class="footer__link">
-                                                        EDQI Certifications
-                                                    </a>
-                                                </li>
-                                                <!-- <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>courses/course_detail.php" class="footer__link">
-                                                        Microsoft Course
+                                                    <a href="<?php echo base_url();?>academic_connect/collaboration_with_institutions.php" class="footer__link">
+                                                        Collaborations with Institutions
                                                     </a>
                                                 </li>
                                                 <li class="footer__list">
-                                                    <a href="<?php echo base_url();?>courses/course_detail.php" class="footer__link">
-                                                        SAP coure
+                                                    <a href="<?php echo base_url();?>academic_connect/centre_of_excellence.php" class="footer__link">
+                                                        Centre of Excellence
                                                     </a>
-                                                </li> -->
+                                                </li>
+                                                <li class="footer__list">
+                                                    <a href="<?php echo base_url();?>industry_connect/litheora_geospatial_technologies_consultancy_services.php" class="footer__link">
+                                                        Litheora Geospatial Technologies consultancy services
+                                                    </a>
+                                                </li>
                                             </ul>
                                         </div>
                                     </div>
@@ -134,9 +134,18 @@
                                                 <i class="fa fa-phone" aria-hidden="true"></i>
                                             </div>
                                             <div class="footer__contact-right">
-                                                <a href="" class="footer__contact-link tel">
-                                                   Loading
+                                                <a href="tel:+919035623724" class="footer__contact-link tel">
+                                                    +91 903-562-3724
                                                 </a>
+                                            </div>
+                                        </li>
+                                        <li class="footer__contact-list d-flex">
+                                            <div class="footer__contact-left">
+                                                <i class="fa fa-phone" aria-hidden="true"></i>
+                                            </div>
+                                            <div class="footer__contact-right">
+                                                <a href="tel:08079695822" class="footer__contact-link tel-2">
+                                                   080 7969-5822
                                             </div>
                                         </li>
                                         <li class="footer__contact-list d-flex">
@@ -155,11 +164,11 @@
                                             </div>
                                             <div class="footer__contact-right">
                                                 <a href="" class="footer__contact-link">
-                                                   #21 bulding name,
+                                                    No.570 sri sai towers 2 nd floor,
                                                    <br>
-                                                   area namespace asdasd
+                                                   HMT layout, 2 nd block, Main road,
                                                    <br>
-                                                   bangalore
+                                                   Vidyaranyapura, Bangalore 560097.
                                                 </a>
                                             </div>
                                         </li>
@@ -173,7 +182,9 @@
             <div class="copy__right">
                 <div class="container">
                     <p>
-                        Copy Rights &copy; <script>document.write(new Date().getFullYear());</script> <a class="footer__copyright-link" href="<?php echo base_url();?>">edqi.in</a> | <a class="footer__copyright-link" href="">Privacy Policy</a> | developed by <a class="footer__copyright-link" href="http://github.com/rohitsraj12/" target="_blank">rohitwebco.com</a>
+                        Copy Rights &copy; <script>document.write(new Date().getFullYear());</script> <a class="footer__copyright-link" href="<?php echo base_url();?>">edqi.in</a> | 
+                        <!-- <a class="footer__copyright-link" href="">Privacy Policy</a> |  -->
+                        developed by <a class="footer__copyright-link" href="http://github.com/rohitsraj12/" target="_blank">rohitwebco.com</a>
                     </p>
                 </div>
             </div>

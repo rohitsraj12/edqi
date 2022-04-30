@@ -25,6 +25,8 @@
     <meta property="business:contact_data:region" content="Karnataka">
     <meta property="business:contact_data:postal_code" content="">
     <meta property="business:contact_data:country_name" content="India">
+    <!-- hide url from search engine -->
+    <meta name="robots" content="noindex">
     <!-- google -->
     <meta name="google-site-verification" content="dbrMYSZb_7Ew-Ti8lK9REe6kV3r1nEmLmpbiZL5eM5Q" />
     <link rel="shortcut icon" type="image/png" href="img/fevicon.png" />
@@ -87,10 +89,10 @@
                             </a>    
                             <div class="sub__nav">
                                 <ul>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Litheora Geospatial Technologies consultancy services </a></li>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Startup and Incubation</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/litheora_geospatial_technologies_consultancy_services.php" class="sub-nav__link">Litheora Geospatial Technologies consultancy services</a></li>
+                                    <!-- <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Startup and Incubation</a></li>
                                     <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Social Connect</a></li>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Career Connect</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Career Connect</a></li> -->
                                 </ul>
                             </div>
                         </li>
@@ -100,9 +102,13 @@
                         <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Career Connect</a></li> -->
                         
 
-                        <li class="nav__list"><a href="<?php echo base_url();?>services/" class="nav__link">Services</a></li>
-                        <li class="nav__list"><a href="<?php echo base_url();?>about_us/" class="nav__link">About Us</a></li>
-                        <li class="nav__list"><a href="<?php echo base_url();?>contact_us.php" class="nav__link">Contact Us</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>community_connect.php" class="nav__link">Community Connect</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>startup_and_incubation.php" class="nav__link">Startup and Incubation</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>social_connect.php" class="nav__link">Social Connect</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>career_connect.php" class="nav__link">Career Connect</a></li>
+                        <!-- <li class="nav__list"><a href="<?php echo base_url();?>services/" class="nav__link">Services</a></li> -->
+                        <!-- <li class="nav__list"><a href="<?php echo base_url();?>about_us/" class="nav__link">About Us</a></li>
+                        <li class="nav__list"><a href="<?php echo base_url();?>contact_us.php" class="nav__link">Contact Us</a></li> -->
                     </ul>
                     <!-- end main nav -->
                 </nav>
