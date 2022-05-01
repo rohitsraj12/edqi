@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>AdminLTE 2 | Invoice</title>
+  <title>Resume Builder</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -13,7 +13,8 @@
   <!-- Ionicons -->
   <link rel="stylesheet" href="../../bower_components/Ionicons/css/ionicons.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="../../dist/css/AdminLTE.min.css">
+  <link rel="stylesheet" href="../../assets/css/pdf.css">
+
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -26,148 +27,191 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 </head>
 <body onload="window.print();">
-<div class="wrapper">
+  <div class="wrapper">
   <!-- Main content -->
-  <section class="invoice">
-    <!-- title row -->
-    <div class="row">
-      <div class="col-xs-12">
-        <h2 class="page-header">
-          <i class="fa fa-globe"></i> AdminLTE, Inc.
-          <small class="pull-right">Date: 2/10/2014</small>
-        </h2>
+    
+  <section class="container resume p-5">
+      <!-- title row -->
+      <div class="row">
       </div>
-      <!-- /.col -->
-    </div>
-    <!-- info row -->
-    <div class="row invoice-info">
-      <div class="col-sm-4 invoice-col">
-        From
-        <address>
-          <strong>Admin, Inc.</strong><br>
-          795 Folsom Ave, Suite 600<br>
-          San Francisco, CA 94107<br>
-          Phone: (804) 123-5432<br>
-          Email: info@almasaeedstudio.com
-        </address>
-      </div>
-      <!-- /.col -->
-      <div class="col-sm-4 invoice-col">
-        To
-        <address>
-          <strong>John Doe</strong><br>
-          795 Folsom Ave, Suite 600<br>
-          San Francisco, CA 94107<br>
-          Phone: (555) 539-1037<br>
-          Email: john.doe@example.com
-        </address>
-      </div>
-      <!-- /.col -->
-      <div class="col-sm-4 invoice-col">
-        <b>Invoice #007612</b><br>
-        <br>
-        <b>Order ID:</b> 4F3S8J<br>
-        <b>Payment Due:</b> 2/22/2014<br>
-        <b>Account:</b> 968-34567
-      </div>
-      <!-- /.col -->
-    </div>
-    <!-- /.row -->
-
-    <!-- Table row -->
-    <div class="row">
-      <div class="col-xs-12 table-responsive">
-        <table class="table table-striped">
-          <thead>
-          <tr>
-            <th>Qty</th>
-            <th>Product</th>
-            <th>Serial #</th>
-            <th>Description</th>
-            <th>Subtotal</th>
-          </tr>
-          </thead>
-          <tbody>
-          <tr>
-            <td>1</td>
-            <td>Call of Duty</td>
-            <td>455-981-221</td>
-            <td>El snort testosterone trophy driving gloves handsome</td>
-            <td>$64.50</td>
-          </tr>
-          <tr>
-            <td>1</td>
-            <td>Need for Speed IV</td>
-            <td>247-925-726</td>
-            <td>Wes Anderson umami biodiesel</td>
-            <td>$50.00</td>
-          </tr>
-          <tr>
-            <td>1</td>
-            <td>Monsters DVD</td>
-            <td>735-845-642</td>
-            <td>Terry Richardson helvetica tousled street art master</td>
-            <td>$10.70</td>
-          </tr>
-          <tr>
-            <td>1</td>
-            <td>Grown Ups Blue Ray</td>
-            <td>422-568-642</td>
-            <td>Tousled lomo letterpress</td>
-            <td>$25.99</td>
-          </tr>
-          </tbody>
-        </table>
-      </div>
-      <!-- /.col -->
-    </div>
-    <!-- /.row -->
-
-    <div class="row">
-      <!-- accepted payments column -->
-      <div class="col-xs-6">
-        <p class="lead">Payment Methods:</p>
-        <img src="../../dist/img/credit/visa.png" alt="Visa">
-        <img src="../../dist/img/credit/mastercard.png" alt="Mastercard">
-        <img src="../../dist/img/credit/american-express.png" alt="American Express">
-        <img src="../../dist/img/credit/paypal2.png" alt="Paypal">
-
-        <p class="text-muted well well-sm no-shadow" style="margin-top: 10px;">
-          Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles, weebly ning heekya handango imeem plugg dopplr
-          jibjab, movity jajah plickers sifteo edmodo ifttt zimbra.
-        </p>
-      </div>
-      <!-- /.col -->
-      <div class="col-xs-6">
-        <p class="lead">Amount Due 2/22/2014</p>
-
-        <div class="table-responsive">
-          <table class="table">
+      <!-- info row -->
+      <div class="row invoice-info">
+        <div class="col-sm-8 invoice-col">
+          <!-- <b>Invoice #007612</b><br> -->
+          <table>
             <tr>
-              <th style="width:50%">Subtotal:</th>
-              <td>$250.30</td>
+              <th>Name</th>
+              <td>: Person Name</td>
             </tr>
             <tr>
-              <th>Tax (9.3%)</th>
-              <td>$10.34</td>
+              <th>Phone Number</th>
+              <td>: +91 999 999 9999</td>
             </tr>
             <tr>
-              <th>Shipping:</th>
-              <td>$5.80</td>
+              <th>Email</th>
+              <td>: mail@mail.com</td>
             </tr>
             <tr>
-              <th>Total:</th>
-              <td>$265.24</td>
+              <th>Address</th>
+              <td>: #22, bld name, road name, mumbai 585858
+          </td>
             </tr>
           </table>
         </div>
+        <!-- /.col -->
       </div>
-      <!-- /.col -->
-    </div>
-    <!-- /.row -->
-  </section>
-  <!-- /.content -->
-</div>
+      <!-- /.row -->
+      <hr>
+      <!-- Table row -->
+
+      <div class="object contianer py-4">
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate libero incidunt similique cumque cum. Ipsum accusantium natus quia laborum consectetur, rem eligendi recusandae fuga laboriosam rerum soluta, vel repellat cumque odit quod aliquid minus voluptatum, deleniti temporibus nemo amet. Odit suscipit facilis nobis fuga nam natus sequi dolores voluptates atque?
+        </p>
+      </div>
+      <!-- end object -->
+
+      <div class="skill pb-4">
+        <h5>Skills</h5>
+        <div class="table-responsive">
+            <table class="table">
+              <tr>
+                <th style="width:15%">Coding:</th>
+                <td>: html, css, javaScript, jQuery, Bootstrap</td>
+              </tr>
+              <tr>
+                <th>Database</th>
+                <td>: mySql</td>
+              </tr>
+              <tr>
+                <th>Framework</th>
+                <td>: reactjs, Angular</td>
+              </tr>
+              <tr>
+                <th>Tools</th>
+                <td>: Visual Code, apache, Git, Photoshop</td>
+              </tr>
+            </table>
+          </div>
+      </div>
+      <!-- end skils -->
+
+      <div class="experience">
+        <div class="pb-4">
+          <h5>Working Experience</h5>
+
+          <article>
+            <div class="pt-2 d-flex justify-content-between">
+              <div class="">
+                <h5 class="mb-0">
+                  Profile Name
+                </h5>
+                <p>
+                  company Name
+                </p>
+              </div>
+              <div class="">
+                <p>June 2020 - Jan 2022</p>
+              </div>
+            </div>
+            <div class="table-responsive">
+              <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem dolore repellat quae, modi magnam consequatur facere pariatur illo incidunt iste similique quidem ut qui error doloremque maiores nobis, vel voluptatem.
+              </p>
+              <ul>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia iste vel ipsam facere ipsa, soluta eius! Ullam minus iste deleniti. </li>
+                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis, obcaecati! Corrupti repellat quasi iusto nihil quod dolores? </li>
+                <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam voluptates nobis similique magnam, neque suscipit quaerat autem quas maiores, asperiores mollitia et! </li>
+                <li>Lorem ipsum dolor sit amet ipsam facere ipsa, soluta eius! Ullam minus iste deleniti. </li>
+              </ul>  
+            </div>
+            <!-- exp one -->
+          </article>
+          
+          <article>
+            <div class="pt-2 d-flex justify-content-between">
+              <div class="">
+                <h5 class="mb-0">
+                  Profile Name
+                </h5>
+                <p>
+                  company Name
+                </p>
+              </div>
+              <div class="">
+                <p>June 2020 - Jan 2022</p>
+              </div>
+            </div>
+            <div class="table-responsive">
+              <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem dolore repellat quae, modi magnam consequatur facere pariatur illo incidunt iste similique quidem ut qui error doloremque maiores nobis, vel voluptatem.
+              </p>
+              <ul>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia iste vel ipsam facere ipsa, soluta eius! Ullam minus iste deleniti. </li>
+                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis, obcaecati! Corrupti repellat quasi iusto nihil quod dolores? </li>
+                <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam voluptates nobis similique magnam, neque suscipit quaerat autem quas maiores, asperiores mollitia et! </li>
+                <li>Lorem ipsum dolor sit amet ipsam facere ipsa, soluta eius! Ullam minus iste deleniti. </li>
+              </ul>  
+            </div>
+            <!-- exp one -->
+          </article>
+          
+        </div>
+      </div>
+      <!-- end experience -->
+      
+      <div class="academic">
+        <h5>Academic</h5>
+        <div class="row">
+          
+          <div class="col-xs-12 table-responsive">
+            <table class="table table-striped">
+              <thead>
+              <tr>
+                <th width="10%">Year</th>
+                <th width="40%">Course</th>
+                <th width="40%">Univercity</th>
+                <th width="10%">Grade</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                <td>2011</td>
+                <td>B.Tech</td>
+                <td>IIT Mumbai</td>
+                <td>A</td>
+              </tr>
+              <tr>
+                <td>2009</td>
+                <td>A Levels</td>
+                <td>Mumbai Univercity</td>
+                <td>A+</td>
+              </tr>
+
+              <tr>
+                <td>2011</td>
+                <td>B.Tech</td>
+                <td>IIT Mumbai</td>
+                <td>A</td>
+              </tr>
+              <tr>
+                <td>2009</td>
+                <td>A Levels</td>
+                <td>Mumbai Univercity</td>
+                <td>A+</td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <!-- /.col -->
+        </div>
+        <!-- /.row -->
+
+      </div>
+      <!-- academic -->
+    </section>
+    <!-- /.content -->
+  </div>
 <!-- ./wrapper -->
 </body>
 </html>
