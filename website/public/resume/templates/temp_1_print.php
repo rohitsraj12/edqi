@@ -35,7 +35,7 @@
       <div class="row">
       </div>
       <!-- info row -->
-      <div class="row invoice-info">
+      <div class="row invoice-info border-bottom pb-2">
         <div class="col-sm-8 invoice-col">
           <!-- <b>Invoice #007612</b><br> -->
           <table>
@@ -61,17 +61,15 @@
         <!-- /.col -->
       </div>
       <!-- /.row -->
-      <hr>
-      <!-- Table row -->
 
-      <div class="object contianer py-4">
+      <div class="object contianer py-2">
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate libero incidunt similique cumque cum. Ipsum accusantium natus quia laborum consectetur, rem eligendi recusandae fuga laboriosam rerum soluta, vel repellat cumque odit quod aliquid minus voluptatum, deleniti temporibus nemo amet. Odit suscipit facilis nobis fuga nam natus sequi dolores voluptates atque?
         </p>
       </div>
       <!-- end object -->
 
-      <div class="skill pb-4">
+      <div class="skill pb-2">
         <h5>Skills</h5>
         <div class="table-responsive">
             <table class="table">
@@ -97,7 +95,7 @@
       <!-- end skils -->
 
       <div class="experience">
-        <div class="pb-4">
+        <div class="pb-2">
           <h5>Working Experience</h5>
 
           <article>
@@ -114,7 +112,7 @@
                 <p>June 2020 - Jan 2022</p>
               </div>
             </div>
-            <div class="table-responsive">
+            <div class="">
               <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem dolore repellat quae, modi magnam consequatur facere pariatur illo incidunt iste similique quidem ut qui error doloremque maiores nobis, vel voluptatem.
               </p>
@@ -142,7 +140,7 @@
                 <p>June 2020 - Jan 2022</p>
               </div>
             </div>
-            <div class="table-responsive">
+            <div class="">
               <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem dolore repellat quae, modi magnam consequatur facere pariatur illo incidunt iste similique quidem ut qui error doloremque maiores nobis, vel voluptatem.
               </p>
