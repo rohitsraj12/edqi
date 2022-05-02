@@ -238,6 +238,7 @@
       <!-- academic -->
     </section>
     <!-- /.content -->
+    
   </div>
   <!-- /.content-wrapper -->
 
