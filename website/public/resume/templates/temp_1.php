@@ -1,4 +1,26 @@
+<?php
 
+  if(isset($_POST['submit'])){
+
+    $first_name = $_POST['first_name'];
+    $last_name = $_POST['last_name'];
+    $phone = $_POST['phone'];
+    $email = $_POST['email'];
+    $address = $_POST['address'];
+    $object = $_POST['object'];
+    $code = $_POST['code_skill'];
+    $db = $_POST['database'];
+    $framework = $_POST['framework'];
+    $tool = $_POST['tool'];
+
+
+  }
+
+
+
+
+
+?>
 
 
 
@@ -68,20 +90,20 @@
           <table>
             <tr>
               <th>Name</th>
-              <td>: Person Name</td>
+              <td>: <?php echo $first_name . " " . $last_name;?></td>
             </tr>
             <tr>
               <th>Phone Number</th>
-              <td>: +91 999 999 9999</td>
+              <td>: <?php echo $phone; ?></td>
             </tr>
             <tr>
               <th>Email</th>
-              <td>: mail@mail.com</td>
+              <td>: <?php echo $email; ?></td>
             </tr>
             <tr>
               <th>Address</th>
-              <td>: #22, bld name, road name, mumbai 585858
-          </td>
+                <td>: <?php echo $address; ?>
+              </td>
             </tr>
           </table>
         </div>
@@ -93,7 +115,7 @@
 
       <div class="object contianer py-4">
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate libero incidunt similique cumque cum. Ipsum accusantium natus quia laborum consectetur, rem eligendi recusandae fuga laboriosam rerum soluta, vel repellat cumque odit quod aliquid minus voluptatum, deleniti temporibus nemo amet. Odit suscipit facilis nobis fuga nam natus sequi dolores voluptates atque?
+          <?php echo $object; ?>  
         </p>
       </div>
       <!-- end object -->
@@ -104,19 +126,19 @@
             <table class="table">
               <tr>
                 <th style="width:15%">Coding:</th>
-                <td>: html, css, javaScript, jQuery, Bootstrap</td>
+                <td>: <?php echo $code; ?></td>
               </tr>
               <tr>
                 <th>Database</th>
-                <td>: mySql</td>
+                <td>: <?php echo $db; ?></td>
               </tr>
               <tr>
                 <th>Framework</th>
-                <td>: reactjs, Angular</td>
+                <td>: <?php echo $framework; ?></td>
               </tr>
               <tr>
                 <th>Tools</th>
-                <td>: Visual Code, apache, Git, Photoshop</td>
+                <td>: <?php echo $tool; ?></td>
               </tr>
             </table>
           </div>
@@ -245,7 +267,21 @@
   <div class="container">
     <div class="row no-print py-4">
       <div class="col-xs-12">
-        <a href="temp_1_print.php" target="_blank" class="btn btn-primary"><i class="fa fa-print"></i> Print</a>
+        <form action="temp_1_print.php" method="POST">
+
+          <input type="hidden" name="name" value="<?php echo $first_name . " " . $last_name;?>">
+          <input type="hidden" name="phone" value="<?php echo $phone;?>">
+          <input type="hidden" name="email" value="<?php echo $email;?>">
+          <input type="hidden" name="address" value="<?php echo $address;?>">
+          <input type="hidden" name="object" value="<?php echo $object;?>">
+          <input type="hidden" name="code" value="<?php echo $code;?>">
+          <input type="hidden" name="database" value="<?php echo $db;?>">
+          <input type="hidden" name="framework" value="<?php echo $framework;?>">
+          <input type="hidden" name="tool" value="<?php echo $tool;?>">
+
+          <button type="submit" class="btn btn-primary" name="submit"><i class="fa fa-print"></i> Print</button>
+
+        </form>
 
         <!-- <button type="button" class="btn btn-success pull-right"><i class="fa fa-credit-card"></i> 
           Submit Payment
