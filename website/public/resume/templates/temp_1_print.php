@@ -1,3 +1,24 @@
+<?php
+  
+  if(isset($_POST['submit'])){
+
+    $name = $_POST['name'];
+    $phone = $_POST['phone'];
+    $email = $_POST['email'];
+    $address = $_POST['address'];
+    $object = $_POST['object'];
+    $code = $_POST['code'];
+    $db = $_POST['database'];
+    $framework = $_POST['framework'];
+    $tool = $_POST['tool'];
+
+
+  }
+
+
+?>
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -41,20 +62,20 @@
           <table>
             <tr>
               <th>Name</th>
-              <td>: Person Name</td>
+              <td>: <?php echo $name;?></td>
             </tr>
             <tr>
               <th>Phone Number</th>
-              <td>: +91 999 999 9999</td>
+              <td>: <?php echo $phone; ?></td>
             </tr>
             <tr>
               <th>Email</th>
-              <td>: mail@mail.com</td>
+              <td>: <?php echo $email; ?></td>
             </tr>
             <tr>
               <th>Address</th>
-              <td>: #22, bld name, road name, mumbai 585858
-          </td>
+                <td>: <?php echo $address; ?>
+              </td>
             </tr>
           </table>
         </div>
@@ -64,7 +85,7 @@
 
       <div class="object contianer py-2">
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate libero incidunt similique cumque cum. Ipsum accusantium natus quia laborum consectetur, rem eligendi recusandae fuga laboriosam rerum soluta, vel repellat cumque odit quod aliquid minus voluptatum, deleniti temporibus nemo amet. Odit suscipit facilis nobis fuga nam natus sequi dolores voluptates atque?
+          <?php echo $object; ?>  
         </p>
       </div>
       <!-- end object -->
@@ -72,22 +93,22 @@
       <div class="skill pb-2">
         <h5>Skills</h5>
         <div class="table-responsive">
-            <table class="table">
+        <table class="table">
               <tr>
                 <th style="width:15%">Coding:</th>
-                <td>: html, css, javaScript, jQuery, Bootstrap</td>
+                <td>: <?php echo $code; ?></td>
               </tr>
               <tr>
                 <th>Database</th>
-                <td>: mySql</td>
+                <td>: <?php echo $db; ?></td>
               </tr>
               <tr>
                 <th>Framework</th>
-                <td>: reactjs, Angular</td>
+                <td>: <?php echo $framework; ?></td>
               </tr>
               <tr>
                 <th>Tools</th>
-                <td>: Visual Code, apache, Git, Photoshop</td>
+                <td>: <?php echo $tool; ?></td>
               </tr>
             </table>
           </div>
