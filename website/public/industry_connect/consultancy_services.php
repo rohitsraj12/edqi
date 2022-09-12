@@ -1,15 +1,13 @@
 
 
-
-
 <?php
-    $page_title = "Career Opportunities at EDQI";
+    $page_title = "Consultancy Services | Global certifications";
     $page_meta_key = "";
     $page_meta_description = "";
-    $course_name = "Career Opportunities at EDQI";
+    $course_name = "Consultancy Services";
     // config file
-    include('private/config/url.config.php');
-    include('private/required/header.inc.php');
+    include('../private/config/url.config.php');
+    include('../private/required/header.inc.php');
 ?>
     <div class="body__banner">
         <div class="wrap__banner">
@@ -67,7 +65,7 @@
                                         data-aos-duration="1000"
                                         data-aos-easing="ease-in-out">
                                     <h2 class="primary-header">
-                                        Career Opportunities at EDQI
+                                        Consultancy Services
                                     </h2>
                                     <!-- <p class="section__sub-header">
                                         Cum doctus civibus efficiantur in imperdiet deterruisset.
@@ -120,30 +118,89 @@
                                                         <div class="row">
                                                             <div class="col-sm-12">
                                                                 <div class="section__block pb-3">
-                                                                    <h2>
-                                                                        Why EDQI?
+                                                                   <h2>
+                                                                   GIS Services
                                                                     </h2>
-                                                                    <p>
-                                                                        Love Technology? Grow with us.
-                                                                    </p>
-                                                                    <p>
-                                                                        At EDQI our team is exposed to a fast-paced, dynamic environment that fosters professional excellence as well as professional growth. In an intensely fun environment with smart people, our team gets to work and train on cutting- edge technologies. From the role of training to the role of finance every day we are inventing and innovating new ways. Be a part of our family where you will face and explore challenges every day to be bold in making decisions.
-                                                                    </p>
-                                                                    
+                                                                     <!-- <p>
+                                                                        A Memorandum of Understanding with Dayananda Sagar Academy of Technology and Management was signed for the following:
+                                                                    </p> -->
+                                                                    <ul class="found__points">
+                                                                        <li>
+                                                                            Digital Photogrammetry Services
+                                                                        </li>
+                                                                        <li>Digitization</li>
+                                                                        <li>Remote Sensing</li>
+                                                                        <li>3D Building Landmarks</li>
+                                                                        <li>Indoor Mapping</li>
+                                                                        <li>Survey</li>
+                                                                        <li>Municipal GIS</li>
+                                                                        <li>Cadastral Mapping</li>
+                                                                        <li>Topographical Mapping</li>
+                                                                        <li>Parcel mapping</li>
+                                                                        <li>GIS Data Capture</li>
+                                                                        <li>LiDAR Data Processing Services</li>
+                                                                        <li>Watershed Analysis</li>
+                                                                    </ul>
+                                                                </div>
+
+                                                                <div class="section__block pb-3">
+                                                                    <h2>
+                                                                        Engineering Design Drafting
+                                                                    </h2>
+                                                                     <!-- <p>
+                                                                        A Memorandum of Understanding with Dayananda Sagar Academy of Technology and Management was signed for the following:
+                                                                    </p> -->
+                                                                    <ul class="found__points">
+                                                                        <li>
+                                                                        CAD Drafting
+                                                                        </li>
+                                                                        <li>AutoCAD Drafting</li>
+                                                                        <li>Telecom Construction Drawings</li>
+                                                                        <li>3D Modeling</li>
+                                                                        <li>3D Walk through Animations</li>
+                                                                        <li>3D Solid Modeling</li>
+                                                                        <li>3D CAD Modeling</li>
+                                                                        <li>Solar Panel Layout Designs</li>
+                                                                        <li>Construction Survey Drafting Services</li>
+                                                                        <li>Isometric Drawing Services</li>
+                                                                    </ul>
                                                                 </div>
                                                                 <div class="section__block pb-3">
                                                                     <h2>
-                                                                        Career Growth in EDQI
+                                                                    BIM Services
                                                                     </h2>
-                                                                    <p>
-                                                                    In EDQI we don’t only focus on assigning jobs to employees but we also take care of there career growth which will not only boost their confidence but also give them a chance to explore their professional self. So how do we do it????
-                                                                    </p>
+                                                                     <!-- <p>
+                                                                        A Memorandum of Understanding with Dayananda Sagar Academy of Technology and Management was signed for the following:
+                                                                    </p> -->
                                                                     <ul class="found__points">
-                                                                        <li>
-                                                                        Global certification for all the employees who are willing to be a technology King/Queen.
-                                                                        </li>
-                                                                        <li>Internal Hiring – Promotion, building and motivating young talent, team transfers.</li>
+                                                                        <li>Architectural modeling</li>
+                                                                        <li>Structural modeling</li>
+                                                                        <li>Mechanical, Electrical and Plumbing (MEP) modeling</li>
+                                                                        <li>Clash Detection and Coordination</li>
+                                                                        <li>Shop Drawings</li>
+                                                                        <li>Asset Tagging</li>
+                                                                        <li>Bill of Quantities Generation</li>
+                                                                        <li>Development of Interactive O&amp;M Manuals</li>
                                                                     </ul>
+                                                                </div>
+                                                                <div class="section__block pb-3">
+                                                                    <h2>
+                                                                        Technology Services
+                                                                    </h2>
+                                                                     <!-- <p>
+                                                                        A Memorandum of Understanding with Dayananda Sagar Academy of Technology and Management was signed for the following:
+                                                                    </p> -->
+                                                                    <ul class="found__points">
+                                                                        <li>Application Development and Maintenance</li>
+                                                                        <li>Software Product Engineering</li>
+                                                                    </ul>
+                                                                </div>
+                                                                
+                                                                <div class="section__block pb-3">
+                                                                    <h2>
+                                                                        Drone Mapping Services
+                                                                    </h2>
+                                                                   
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -164,5 +221,5 @@
     <!-- end body container -->
 
 <?php
-    include('private/required/footer.inc.php');
+    include('../private/required/footer.inc.php');
 ?>

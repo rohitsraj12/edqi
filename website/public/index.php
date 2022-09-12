@@ -4,8 +4,8 @@
     $page_meta_description = "";
     
     // config file
-    include('../private/config/url.config.php');
-    include('../private/required/header.inc.php');
+    include('private/config/url.config.php');
+    include('private/required/header.inc.php');
 ?>
         <div class="body__banner">
             <div class="wrap__banner">
@@ -88,7 +88,7 @@
                         data-aos-duration="1000"
                         data-aos-easing="ease-in-out">
                             <h4 class="primary-header text-center">
-                                EDQI core feautures 
+                                EDQI core features 
                             </h4>
                             <h6 class="text-center section__sub-header">
                                 Transforming education for a better future
@@ -118,7 +118,7 @@
                                                     <h2 class="secondary__header">Smart Learning</h2> 
                                                 </header>
                                                 <p>
-                                                    Hands-on and technology-based learning in educational campuses and organizations across the globe.
+                                                A technology-enhanced, hands-on-learning experience on campuses and in organizations.
                                                 </p>
                                             </div>
                                         </div>
@@ -137,10 +137,10 @@
 
                                             <div class="content__right">
                                                 <header>
-                                                    <h2 class="secondary__header">Qualified Teachers</h2> 
+                                                    <h2 class="secondary__header">Qualified Trainers</h2> 
                                                 </header>
                                                 <p>
-                                                    Highly qualified teachers to give you the best of learning solutions
+                                                    Exceptional learning solutions provided by highly qualified trainers.
                                                 </p>
                                             </div>
                                         </div>
@@ -164,7 +164,7 @@
                                                     <h2 class="secondary__header">Advanced Practices</h2> 
                                                 </header>
                                                 <p>
-                                                    Upgraded methods of teaching for better and easier learning.
+                                                Improved teaching methods for better and easier learning.
                                                 </p>
                                             </div>
                                         </div>
@@ -187,7 +187,7 @@
                                                     <h2 class="secondary__header">Certification</h2> 
                                                 </header>
                                                 <p>
-                                                    Globally certified by recognized institutions and industries.
+                                                Globally certified by recognized institutions and industries.
                                                 </p>
                                             </div>
                                         </div>
@@ -285,7 +285,7 @@
                                                 </h3>
                                             </header>
                                             <p>
-                                                We aim at giving the best to all the students for their future growth. The student growth process includes planning instruction and assessment, setting goals for students, and reflecting on student progress. Student growth is a substantial factor in evaluating educators. Student growth is the change in student achievement.
+                                            It is our goal to provide all the students with the best opportunities for future growth. As a part of the process of planning for instruction and assessment, students set their goals and reflect on their progress. Student growth is a substantial factor in evaluating teachers, allowing teachers to help students with their needs. Student growth refers to a change in student achievement.
                                             </p>
                                         </article>
                                         
@@ -296,11 +296,11 @@
                                         data-aos-easing="ease-in-out">
                                             <header>
                                                 <h3 class="secondary__header">
-                                                    2. Best learning practice
+                                                    2. The Best Way to Learn
                                                 </h3>
                                             </header>
                                             <p>
-                                            We ensure to give our students the best learning with updated methods and technology. Best practices are used to maintain quality. Innovative ideas, new technologies, strategic teaching that makes learning interesting. Practices that have achieved a high level of effectiveness and have been perfected over a decade or longer.
+                                            In order to maintain the quality of our learning and make it simple for individuals to understand, we ensure to provide the most updated methods and technologies. Innovation is the key to learning, so we include new technologies, innovative ideas and strategic thinking. We also use practices that have demonstrated a high level of effectiveness and are used throughout the entire learning process.
                                             </p>
                                         </article>
                                         <article data-aos="fade-right"
@@ -310,7 +310,7 @@
                                         data-aos-easing="ease-in-out">
                                             <header>
                                                 <h3 class="secondary__header">
-                                                    3. Best learning solutions
+                                                    3. Learn from the Best 
                                                 </h3>
                                             </header>
                                             <p>
@@ -332,7 +332,7 @@
                                                 </h3>
                                             </header>
                                             <p>
-                                            We believe in lifelong learning and hence provide learning solutions across the spectrum from K-12 Education, Vocational Education, Higher Education, and Corporate Learning.    
+                                            Since we believe that lifelong learning is essential, we provide solutions across a wide range of learning options. We also prepare our students for corporate life, familiarising them with corporate culture to take them forward.
                                             </p>
                                         </article>
                                         
@@ -358,7 +358,7 @@
                 </section>
                 <!-- end section focus -->
 
-                <section class="section__academic-connect py-5">
+                <!-- <section class="section__academic-connect py-5">
                     <div class="container">
                         <header class="section__header mb-5" data-aos="fade-up"
                         data-aos-offset="100"
@@ -368,9 +368,9 @@
                             <h4 class="primary-header text-center">
                                 Academic Connect
                             </h4>
-                            <!-- <h6 class="text-center section__sub-header">
+                            <h6 class="text-center section__sub-header">
                                 Cum doctus civibus efficiantur in imperdiet deterruisset.
-                            </h6> -->
+                            </h6>
                         </header>
 
                         <div class="section__body">
@@ -395,7 +395,7 @@
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> -->
 
                 <!-- <section class="section__hightlights mt-5" data-aos="fade-in"
                     data-aos-offset="100"
@@ -664,5 +664,5 @@
         </div>
         <!-- end body container -->
 <?php
-    include('../private/required/footer.inc.php');
+    include('private/required/footer.inc.php');
 ?>

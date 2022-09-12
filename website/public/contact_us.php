@@ -5,8 +5,8 @@
     $page_meta_description = "";
 
     // config file
-    include('../private/config/url.config.php');
-    include('../private/required/header.inc.php');
+    include('private/config/url.config.php');
+    include('private/required/header.inc.php');
 
 ?>
     <div class="body__banner">
@@ -343,5 +343,5 @@
     </div>
 
 <?php
-    include('../private/required/footer.inc.php');
+    include('private/required/footer.inc.php');
 ?>

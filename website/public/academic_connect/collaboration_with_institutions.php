@@ -4,8 +4,8 @@
     $page_meta_description = "";
     $course_name = "Collaborations with Institutions";
     // config file
-    include('../../private/config/url.config.php');
-    include('../../private/required/header.inc.php');
+    include('../private/config/url.config.php');
+    include('../private/required/header.inc.php');
 ?>
     <div class="body__banner">
         <div class="wrap__banner">
@@ -263,5 +263,5 @@
     <!-- end body container -->
 
 <?php
-    include('../../private/required/footer.inc.php');
+    include('../private/required/footer.inc.php');
 ?>

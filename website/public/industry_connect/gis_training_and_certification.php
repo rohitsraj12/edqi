@@ -1,15 +1,13 @@
 
 
-
-
 <?php
-    $page_title = "Career Opportunities at EDQI";
+    $page_title = "GIS Training and Certification | Global certifications";
     $page_meta_key = "";
     $page_meta_description = "";
-    $course_name = "Career Opportunities at EDQI";
+    $course_name = "GIS Training and Certification";
     // config file
-    include('private/config/url.config.php');
-    include('private/required/header.inc.php');
+    include('../private/config/url.config.php');
+    include('../private/required/header.inc.php');
 ?>
     <div class="body__banner">
         <div class="wrap__banner">
@@ -67,7 +65,7 @@
                                         data-aos-duration="1000"
                                         data-aos-easing="ease-in-out">
                                     <h2 class="primary-header">
-                                        Career Opportunities at EDQI
+                                        GIS Training and Certification
                                     </h2>
                                     <!-- <p class="section__sub-header">
                                         Cum doctus civibus efficiantur in imperdiet deterruisset.
@@ -120,29 +118,20 @@
                                                         <div class="row">
                                                             <div class="col-sm-12">
                                                                 <div class="section__block pb-3">
-                                                                    <h2>
-                                                                        Why EDQI?
+                                                                    <!-- <h2>
+                                                                        Details of MoU’s:
                                                                     </h2>
                                                                     <p>
-                                                                        Love Technology? Grow with us.
-                                                                    </p>
-                                                                    <p>
-                                                                        At EDQI our team is exposed to a fast-paced, dynamic environment that fosters professional excellence as well as professional growth. In an intensely fun environment with smart people, our team gets to work and train on cutting- edge technologies. From the role of training to the role of finance every day we are inventing and innovating new ways. Be a part of our family where you will face and explore challenges every day to be bold in making decisions.
-                                                                    </p>
-                                                                    
-                                                                </div>
-                                                                <div class="section__block pb-3">
-                                                                    <h2>
-                                                                        Career Growth in EDQI
-                                                                    </h2>
-                                                                    <p>
-                                                                    In EDQI we don’t only focus on assigning jobs to employees but we also take care of there career growth which will not only boost their confidence but also give them a chance to explore their professional self. So how do we do it????
-                                                                    </p>
+                                                                        A Memorandum of Understanding with Dayananda Sagar Academy of Technology and Management was signed for the following:
+                                                                    </p> -->
                                                                     <ul class="found__points">
                                                                         <li>
-                                                                        Global certification for all the employees who are willing to be a technology King/Queen.
+                                                                            Details regarding all the Industrial Works taken up till now under Litheora.
                                                                         </li>
-                                                                        <li>Internal Hiring – Promotion, building and motivating young talent, team transfers.</li>
+                                                                        <li>Real-time pictures and Brief report.</li>
+                                                                        <li>Projects completed.</li>
+                                                                        <li>Projects that are in pipeline.</li>
+                                                                        <li>Collaborations with Industries details.</li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -164,5 +153,5 @@
     <!-- end body container -->
 
 <?php
-    include('private/required/footer.inc.php');
+    include('../private/required/footer.inc.php');
 ?>

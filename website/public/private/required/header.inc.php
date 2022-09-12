@@ -76,8 +76,30 @@
                             </a>    
                             <div class="sub__nav">
                                 <ul>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>academic_connect/training_and_global_certifications.php" class="sub-nav__link">Training and global certifications</a></li>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>academic_connect/collaboration_with_institutions.php" class="sub-nav__link">Collaborations with Institutions</a></li>
+                                    <li class="sub-nav__list">
+                                        <a href="<?php echo base_url();?>academic_connect/training_and_global_certifications.php" class="sub-nav__link">
+                                            <!-- Training and global certifications -->
+                                            Learning and Development Cell
+                                        </a>
+                                    </li>
+                                    <li class="sub-nav__list">
+                                        <a href="<?php echo base_url();?>academic_connect/faculty_development_program.php" class="sub-nav__link">
+                                            <!-- Training and global certifications -->
+                                            Faculty Development Program (FDP)
+                                        </a>
+                                    </li>
+                                    <li class="sub-nav__list">
+                                        <a href="<?php echo base_url();?>academic_connect/emerging_technology.php" class="sub-nav__link">
+                                            <!-- Collaborations with Institutions -->
+                                            Emerging Technology (ET) Club
+                                        </a>
+                                    </li>
+                                    <li class="sub-nav__list">
+                                        <a href="<?php echo base_url();?>academic_connect/virtual_internship.php" class="sub-nav__link">
+                                            <!-- Collaborations with Institutions -->
+                                            Virtual Internship
+                                        </a>
+                                    </li>
                                     <li class="sub-nav__list"><a href="<?php echo base_url();?>academic_connect/centre_of_excellence.php" class="sub-nav__link">Centre of Excellence</a></li>
                                 </ul>
                             </div>
@@ -89,10 +111,10 @@
                             </a>    
                             <div class="sub__nav">
                                 <ul>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/litheora_geospatial_technologies_consultancy_services.php" class="sub-nav__link">Litheora Geospatial Technologies consultancy services</a></li>
-                                    <!-- <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Startup and Incubation</a></li>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Social Connect</a></li>
-                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Career Connect</a></li> -->
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/gis_training_and_certification.php" class="sub-nav__link">GIS Training and Certification</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/consultancy_services.php" class="sub-nav__link">Consultancy Services</a></li>
+                                    <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/startup_and_incubation.php" class="sub-nav__link">Startup and Incubation</a></li>
+                                    <!-- <li class="sub-nav__list"><a href="<?php echo base_url();?>industry_connect/" class="sub-nav__link">Internship</a></li> -->
                                 </ul>
                             </div>
                         </li>
@@ -102,9 +124,9 @@
                         <li class="nav__list"><a href="<?php echo base_url();?>courses/" class="nav__link">Career Connect</a></li> -->
                         
 
-                        <li class="nav__list"><a href="<?php echo base_url();?>community_connect.php" class="nav__link">Community Connect</a></li>
-                        <li class="nav__list"><a href="<?php echo base_url();?>startup_and_incubation.php" class="nav__link">Startup and Incubation</a></li>
-                        <li class="nav__list"><a href="<?php echo base_url();?>social_connect.php" class="nav__link">Social Connect</a></li>
+                        <!-- <li class="nav__list"><a href="<?php echo base_url();?>community_connect.php" class="nav__link">Community Connect</a></li> -->
+                        <!-- <li class="nav__list"><a href="<?php echo base_url();?>startup_and_incubation.php" class="nav__link">Startup and Incubation</a></li> -->
+                        <!-- <li class="nav__list"><a href="<?php echo base_url();?>social_connect.php" class="nav__link">Social Connect</a></li> -->
                         <li class="nav__list"><a href="<?php echo base_url();?>career_connect.php" class="nav__link">Career Connect</a></li>
                         <!-- <li class="nav__list"><a href="<?php echo base_url();?>services/" class="nav__link">Services</a></li> -->
                         <!-- <li class="nav__list"><a href="<?php echo base_url();?>about_us/" class="nav__link">About Us</a></li>

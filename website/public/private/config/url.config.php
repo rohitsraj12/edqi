@@ -8,7 +8,7 @@
         $url = "http://localhost/www/projects/edqi/website/public/";
 
         // demo
-        // $url = "https://edqi.in/demo/";
+        // $url = "https://edqi.in/";
 
         return $url;
     }

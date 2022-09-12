@@ -1,15 +1,13 @@
 
 
-
-
 <?php
-    $page_title = "Career Opportunities at EDQI";
+    $page_title = "Startup and Incubation | Global certifications";
     $page_meta_key = "";
     $page_meta_description = "";
-    $course_name = "Career Opportunities at EDQI";
+    $course_name = "Startup and Incubation";
     // config file
-    include('private/config/url.config.php');
-    include('private/required/header.inc.php');
+    include('../private/config/url.config.php');
+    include('../private/required/header.inc.php');
 ?>
     <div class="body__banner">
         <div class="wrap__banner">
@@ -67,7 +65,7 @@
                                         data-aos-duration="1000"
                                         data-aos-easing="ease-in-out">
                                     <h2 class="primary-header">
-                                        Career Opportunities at EDQI
+                                        Startup and Incubation
                                     </h2>
                                     <!-- <p class="section__sub-header">
                                         Cum doctus civibus efficiantur in imperdiet deterruisset.
@@ -120,29 +118,60 @@
                                                         <div class="row">
                                                             <div class="col-sm-12">
                                                                 <div class="section__block pb-3">
-                                                                    <h2>
-                                                                        Why EDQI?
+                                                                   <h2>
+                                                                        Objective of this vertical.
                                                                     </h2>
-                                                                    <p>
-                                                                        Love Technology? Grow with us.
+                                                                     <p>
+                                                                         Nearly 90 percent of young people believe that entrepreneurship education is important and this is according to the Young Entrepreneur Council. With the advent of the internet, free access to resources, and lowered barriers to entry, students can now start companies with minimal capital. At Edqi, we help students start companies through our experiential education entrepreneurship programs.                                                                    
                                                                     </p>
-                                                                    <p>
-                                                                        At EDQI our team is exposed to a fast-paced, dynamic environment that fosters professional excellence as well as professional growth. In an intensely fun environment with smart people, our team gets to work and train on cutting- edge technologies. From the role of training to the role of finance every day we are inventing and innovating new ways. Be a part of our family where you will face and explore challenges every day to be bold in making decisions.
-                                                                    </p>
-                                                                    
+                                                                </div>
+
+                                                                <div class="section__block pb-3">
+                                                                    <h2>
+                                                                        Activities conducted.
+                                                                    </h2>
+                                                                     <!-- <p>
+                                                                        A Memorandum of Understanding with Dayananda Sagar Academy of Technology and Management was signed for the following:
+                                                                    </p> -->
+                                                                    <ul class="">
+                                                                        <li>1. Mentorship</li>
+                                                                        <li>2. Tools to scale</li>
+                                                                        <li>3. Industry connects</li>
+                                                                        <li>4. Investor connects</li>
+                                                                    </ul>
                                                                 </div>
                                                                 <div class="section__block pb-3">
                                                                     <h2>
-                                                                        Career Growth in EDQI
+                                                                        Services that are provided by EDQI.
                                                                     </h2>
-                                                                    <p>
-                                                                    In EDQI we don’t only focus on assigning jobs to employees but we also take care of there career growth which will not only boost their confidence but also give them a chance to explore their professional self. So how do we do it????
-                                                                    </p>
-                                                                    <ul class="found__points">
-                                                                        <li>
-                                                                        Global certification for all the employees who are willing to be a technology King/Queen.
-                                                                        </li>
-                                                                        <li>Internal Hiring – Promotion, building and motivating young talent, team transfers.</li>
+                                                                     <!-- <p>
+                                                                        A Memorandum of Understanding with Dayananda Sagar Academy of Technology and Management was signed for the following:
+                                                                    </p> -->
+                                                                    <ul class="">
+                                                                        <li>1. Curated start-up connects, aligned to strategy</li>
+                                                                        <li>2. Fostering culture of innovation (boosting intrapreneurship)</li>
+                                                                        <li>3. Supporting corporate Accelerators</li>
+                                                                        <li>4. Brand advocacy and thought leadership</li>
+                                                                        <li>5. Making the innovation process and teams more efficient</li>
+                                                                        <li>6. Industry-agnostic approach and pan-India outreach</li>
+                                                                        <li>7. Open innovation challenges and hackathons</li>
+                                                                        <li>8. Cross pollination across Industries</li>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="section__block pb-3">
+                                                                    <h2>
+                                                                        Impact it is creating in the corporate world.
+                                                                    </h2>
+                                                                     <!-- <p>
+                                                                        A Memorandum of Understanding with Dayananda Sagar Academy of Technology and Management was signed for the following:
+                                                                    </p> -->
+                                                                    <ul class="">
+                                                                        <li>1. Better Goods and Services</li>
+                                                                        <li>2. Provides Employment</li>
+                                                                        <li>3. More Taxes, More Programs</li>
+                                                                        <li>4. Tech revolution and local development</li>
+                                                                        <li>5. Creating jobs and attracting a talent pool</li>
+                                                                        <li>6. Attracting Multinational Corporations (MNCs) and large companies</li>   
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -164,5 +193,5 @@
     <!-- end body container -->
 
 <?php
-    include('private/required/footer.inc.php');
+    include('../private/required/footer.inc.php');
 ?>

@@ -1,7 +1,7 @@
 $(document).ready(function(){    
     const mediaQuery = window.innerWidth;
 
-    $(".nav__link").click(function(e){
+    $(".nav__link").click(function(){
         // e.preventDefault();
         // alert("hi");
         // $(".sub__nav").hide();
@@ -14,6 +14,8 @@ $(document).ready(function(){
         $(".hamburger").click(function(){
             $(".header__nav").slideToggle(400);
         })
+
+        
 
         // $("")
     } else {

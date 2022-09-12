@@ -4,8 +4,8 @@
     $page_meta_description = "";
     $course_name = "Centre of Excellence";
     // config file
-    include('../../private/config/url.config.php');
-    include('../../private/required/header.inc.php');
+    include('../private/config/url.config.php');
+    include('../private/required/header.inc.php');
 ?>
     <div class="body__banner">
         <div class="wrap__banner">
@@ -63,11 +63,11 @@
                                         data-aos-duration="1000"
                                         data-aos-easing="ease-in-out">
                                     <h2 class="primary-header">
-                                    	Centre of Excellence 
+                                    	Centre of Excellence (COE)
                                     </h2>
-                                    <!-- <p class="section__sub-header">
-                                        Cum doctus civibus efficiantur in imperdiet deterruisset.
-                                    </p> -->
+                                    <p class="section__sub-header">
+                                        Excellence at its best
+                                    </p>
                                 </header>
 
                                 <div class="row pb-5">
@@ -109,81 +109,81 @@
                                                         data-aos-delay="50"
                                                         data-aos-duration="1000"
                                                         data-aos-easing="ease-in-out">
-                                                        <h2 class="secondary__header text-center">
-                                                            Objective of COE
+                                                        <h2 class="secondary__header">
+                                                            What is COE?
                                                         </h2>
 
-                                                        <div class="row">
-                                                            <div class="col-sm-12">
-                                                                <div class="section__block pb-3">
-                                                                    <h2>
-                                                                        ET Platform
-                                                                    </h2>
-                                                                    <ul class="found__points">
-                                                                        <li>
-                                                                            To improve education quality and enhance the learning process.
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="section__block pb-3">
-                                                                    <h2>
-                                                                        Body of Knowledge
-                                                                    </h2>
-                                                                    <ul class="found__points">
-                                                                        <li>
-                                                                            To provide readers with as much information and knowledge as possible.
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="section__block pb-3">
-                                                                    <h2>
-                                                                        Communication
-                                                                    </h2>
-                                                                    <ul class="found__points">
-                                                                        <li>
-                                                                            To convey information-instructions, policies, procedures, decisions, etc. So that the listener hears, reads, understands, agrees and accepts the message, and responds as intended by the receiver.
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="section__block pb-3">
-                                                                    <h2>
-                                                                        Collaboration
-                                                                    </h2>
-                                                                    <ul class="found__points">
-                                                                        <li>
-                                                                            It allows businesses to bring together people with different experiences, knowledge and skills, in order to accomplish common goals.
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="section__block pb-3">
-                                                                    <h2>
-                                                                        Area of Expertise
-                                                                    </h2>
-                                                                    <ul class="found__points">
-                                                                        <li>
-                                                                        An expert’s superior performance relies heavily on their domain-specific expertise, and this expertise enables them to anticipate and prepare for future actions with greater efficiency.
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="section__block pb-3">
-                                                                    <h2>
-                                                                        Research Funding
-                                                                    </h2>
-                                                                    <ul class="found__points">
-                                                                        <li>
-                                                                        To prepare the researcher to define the topic, plan and execute a research project, as well as to inform potential collaborators and supporters.
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                
-                                                            </div>
-                                                        </div>
+                                                        <p>
+                                                            Establishment by EDQI of a research centre that will benefit students and institutes. 
+                                                        </p>
+
+                                                        <h2 class="secondary__header">
+                                                            Working of COE
+                                                        </h2>
+                                                        <p>
+                                                            1.	Student Enrolment
+                                                            <br>
+                                                            2.	Training
+                                                            <br> 
+                                                            3.	Mock test
+                                                            <br>
+                                                            4.	 Internship
+                                                            <br>
+                                                            5.	Global Certification
+                                                            <br>
+                                                            6.	Placement Drive
+                                                        </p>
                                                         
+                                                        <h2 class="secondary__header">
+                                                            COE offered by EDQI (To be displayed with titles of COE)
+                                                        </h2>
+                                                        <p>
+                                                            1.	ATAL – Advanced Technologies and learning focuses on Mixed reality, AI and Machine Learning, VR & AR.
+                                                            <br>
+                                                            2.	RISE – Research and Innovation in Smart and Emerging Technologies, focuses on IOT & AI
+                                                            <br> 
+                                                            3.	CEAT – Centre of Excellence in Advanced Technologies, focuses on Electronics & Communication and CS. 
+                                                            <br>
+                                                            4.	CAT – Centre for Advanced Technologies, focuses on Aerospace and Geosciences.
+                                                            <br>
+                                                            5.	AIGIS – Centre of Excellence in AI & GIS
+                                                        </p>
+                                                        
+                                                        <h2 class="secondary__header">
+                                                            Benefits for Students
+                                                        </h2>
+                                                        <p>
+                                                            1.	Providing courses in a timely manner.   
+                                                            <br>
+                                                            2.	Training will be provided at an affordable price at the centre.
+                                                        </p>
+
+                                                        <h2 class="secondary__header">
+                                                            Benefits for Institution
+                                                        </h2>
+                                                        <p>
+                                                            1.	State of Art lab will be set-up and managed by EDQI   
+                                                            <br>
+                                                            2.	The Human resource required for all the main activities will be taken care by EDQI.
+                                                        </p>
+                                                        
+
+                                                        <!-- <h2 class="secondary__header">
+                                                            Working of the Centre – Basic Operational Structure 
+                                                        </h2>
+
+                                                        <h2 class="secondary__header">
+                                                            Collaboration with Colleges
+                                                        </h2>
+
+                                                        <h2 class="secondary__header">
+                                                            Real time images clicked by EDI 
+                                                        </h2> -->
                                                     </div>
                                                 </div>
                                             </article>
                                         </section>
-                                        <section class="section__about-left pt-5" id="Activities-conducted">
+                                        <!-- <section class="section__about-left pt-5" id="Activities-conducted">
                                             <article>
                                                 <div class="section__body">
                                                     <div  data-aos="fade-up"
@@ -276,7 +276,7 @@
                                                   
                                                 </div>
                                             </article>
-                                        </section>
+                                        </section> -->
                                         <!-- <section class="section__about-left pt-5" id="Location-details">
                                             <article>
                                                 <div class="section__body">
@@ -311,5 +311,5 @@
     <!-- end body container -->
 
 <?php
-    include('../../private/required/footer.inc.php');
+    include('../private/required/footer.inc.php');
 ?>
